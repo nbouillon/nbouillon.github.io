@@ -1,0 +1,7 @@
+= Fly that Flag
+
+==== Name the country this flag belongs too
+
+==== Possible Points: 10
+
+image:../../resources/images/flags.png[]

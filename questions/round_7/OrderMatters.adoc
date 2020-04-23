@@ -1,0 +1,56 @@
+= Order Matters
+
+==== It’s all or Nothing here!
+
+==== Possible Points: 12
+
+1. Put these mathematical constants in order from smallest to largest:
+	- Golden Ratio φ 
+	- Pi π 
+	- Universal Parabolic Constant P2 
+	- Euler’s Number e^
+2. List the members of The Beatles from Oldest to Youngest (By date of birth, and for a bonus point include Pete Best):
+	- John Lennon
+	- Paul McCartney
+	- Ringo Star
+	- George Harrison	
+3. Put these presidents in order of when they were in office:
+    - James Buchanan
+    - Millard Fillmore
+    - Chester A. Arthur
+    - Martin Van Buren
+4. Put these companies in order of date founded:
+    - Facebook
+    - Amazon
+    - Netflix
+    - Google
+5. List these dog breeds from smallest to largest (average weight based on AKC):
+    - Afghan Hounds
+	- Boston Terrier
+	- Icelandic Sheepdog
+	- Leonberger
+6. Put the following planets in order of length of day from shortest to longest (in Earth Hours):
+	- Mercury
+	- Jupiter
+	- Saturn
+	- Mars
+7. Put the following states in order of area from largest to smallest:
+    - Indiana
+	- Wyoming
+	- Nevada
+	- Maine
+8. Put these authors in order of their first book publication date:
+	- J. R. R. Tolkien
+	- Jane Austen
+	- R.L. Stine
+	- George Orwell
+9. Put these fast foods in order of calorie count fewest to most:
+	- Big Mac
+	- Taco Bell Crunchwrap Supreme
+    - Arby’s Brisket Bacon Beef N Cheddar
+    - Panera Caesar Salad
+10. Put these people in order of who died first:
+	- Michael Jackson
+	- Farrah Fawcett
+	- Patrick Swayze
+	- Ted Kennedy
