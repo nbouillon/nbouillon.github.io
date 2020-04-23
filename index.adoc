@@ -1,4 +1,5 @@
 = Quarantine Trivia Week 3
+:basepath: questions/round_
 
 === Your Hosts: Haylie and Mitch
 
@@ -13,7 +14,7 @@ The Vegas Round::
 --
 Each team may pick one category without an `*` from the list below before starting the game.
 
-For the category you pick, your team gets to choose 5 questions in that round to _bet_ on.
+For the category you pick, your team gets to choose 5 questions in that round to "bet" on.
 
 If you get a Vegas Round question right, you get 2 points, but if you get it wrong, you get -1 point. 
 
@@ -23,12 +24,12 @@ May the odds be in your favor. When that round comes along make sure your captai
 === Teams link:teams/april25teams.html[Here]
 ==== Categories:
 
-1. We Wish You a Merry…
-2. Fly That Flag
-3. June is Hot, Hot, Hot!*
-4. Disney Boys
-5. Who's talking to Who*
-6. No one pays attention in History Class
-7. Order Matters
-8. Short and Sweet
+1. link:{basepath}1/WeWishYouAMerry.html[We Wish You a Merry…]
+2. link:{basepath}2/FlyThatFlag.html[Fly that Flag]
+3. link:{basepath}3/JuneIsHotHotHot.html[June is Hot, Hot, Hot!]*
+4. link:{basepath}4/DisneyBoys.html[Disney Boys]
+5. link:{basepath}5/WhosTalkingToWho.html[Who’s talking to Who]*
+6. link:{basepath}6/NoonePaysAttentionInHistoryClass.html[No one pays attention in History Class]
+7. link:{basepath}7/OrderMatters.html[Order Matters]
+8. link:{basepath}8/ShortAndSweet.html[Short and Sweet]
 9. Tie Breaker (If necessary)
