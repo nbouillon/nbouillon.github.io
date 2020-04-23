@@ -1,0 +1,99 @@
+= Who’s talking to Who
+:imagesdir: ../../resources/video
+
+==== Can you Identify the movie from the clip and what character the person is talking to.
+
+==== If you’re Jake’s team we also require the casting director
+
+==== Possible Points: 20
+
+Example Answer: Finding Nemo, Nemo
+
+.Example
+video::example/example.webm[width=50%,align="center"]
+
+.Alternate File for Example
+[%collapsible]
+====
+video::example/example.mp4[width=50%]
+====
+
+.Question 1
+video::vid1/vid1.webm[width=50%,align="center"]
+.Alternate File for Question 1
+[%collapsible]
+====
+video::vid1/vid1.mp4[width=50%]
+====
+
+.Question 2
+video::vid2/vid2.webm[width=50%,align="center"]
+.Alternate File for Question 2
+[%collapsible]
+====
+video::vid2/vid2.mp4[width=50%]
+====
+
+.Question 3
+video::vid3/vid3.webm[width=50%,align="center"]
+.Alternate File for Question 3
+[%collapsible]
+====
+video::vid3/vid3.mp4[width=50%]
+====
+
+.Question 4
+video::vid4/vid4.webm[width=50%,align="center"]
+.Alternate File for Question 4
+[%collapsible]
+====
+video::vid4/vid4.mp4[width=50%]
+====
+
+.Question 5
+video::vid5/vid5.webm[width=50%,align="center"]
+.Alternate File for Question 5
+[%collapsible]
+====
+video::vid5/vid5.mp4[width=50%]
+====
+
+.Question 6
+video::vid6/vid6.webm[width=50%,align="center"]
+.Alternate File for Question 6
+[%collapsible]
+====
+video::vid6/vid6.mp4[width=50%]
+====
+
+.Question 7
+video::vid7/vid7.webm[width=50%,align="center"]
+.Alternate File for Question 7
+[%collapsible]
+====
+video::vid7/vid7.mp4[width=50%]
+====
+
+.Question 8
+video::vid8/vid8.webm[width=50%,align="center"]
+.Alternate File for Question 8
+[%collapsible]
+====
+video::vid8/vid8.mp4[width=50%]
+====
+
+.Question 9
+video::vid9/vid9.webm[width=50%,align="center"]
+.Alternate File for Question 9
+[%collapsible]
+====
+video::vid9/vid9.mp4[width=50%]
+====
+
+.Question 10
+video::vid10/vid10.webm[width=50%,align="center"]
+.Alternate File for Question 10
+[%collapsible]
+====
+video::vid10/vid10.mp4[width=50%]
+====
