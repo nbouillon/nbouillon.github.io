@@ -13,12 +13,12 @@
 === Teams link:../teams/april25teams.adoc[Here]
 ==== Categories:
 
-1. We Wish You a Merry…
-2. Fly That Flag
-3. June is Hot, Hot, Hot!*
-4. Disney Boys
-5. Who’s talking to Who*
-6. No one pays attention in History Class
-7. Order Matters
-8. Short and Sweet
+1. link:{basepath}1/WeWishYouAMerry.html[We Wish You a Merry…]
+2. link:{basepath}2/FlyThatFlag.html[Fly that Flag]
+3. link:{basepath}3/JuneIsHotHotHot.html[June is Hot, Hot, Hot!]*
+4. link:{basepath}4/DisneyBoys.html[Disney Boys]
+5. link:{basepath}5/WhosTalkingToWho.html[Who’s talking to Who]*
+6. link:{basepath}6/NoonePaysAttentionInHistoryClass.html[No one pays attention in History Class]
+7. link:{basepath}7/OrderMatters.html[Order Matters]
+8. link:{basepath}8/ShortAndSweet.html[Short and Sweet]
 9. Tie Breaker (If necessary)

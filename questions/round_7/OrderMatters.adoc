@@ -54,3 +54,5 @@
 	- Farrah Fawcett
 	- Patrick Swayze
 	- Ted Kennedy
+
+link:../../index.html[Click here to return to the main site.]

@@ -5,3 +5,5 @@
 ==== Possible Points: 10
 
 image:../../resources/images/flags.png[]
+
+link:../../index.html[Click here to return to the main site.]
