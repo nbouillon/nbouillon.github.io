@@ -1,4 +1,4 @@
-# quarntinetriviasite
+# quarantinetriviasite
 
 quarantinetriviasite uses GitHub Pages with the Cayman Jekyll theme to service a site for playing trivia remotely.
 
