@@ -8,7 +8,17 @@
 1. Your Team Name
 2. Your Vegas Round Choice
 
-*The Vegas Round* : Each team may pick one category from the list below before starting the game (except for rounds with an * those already have bonus points built in). For whichever category you pick you get to choose 5 questions in that round to "bet" on. If you get those questions right, you get 2 points, but if you get them wrong, you get -1. May the odds be in your favor. When that round comes along make sure your captain marks which questions you are choosing to use as your VR!
+The Vegas Round:: 
++
+--
+Each team may pick one category without an `*` from the list below before starting the game.
+
+For the category you pick, your team gets to choose 5 questions in that round to _bet_ on.
+
+If you get a Vegas Round question right, you get 2 points, but if you get it wrong, you get -1 point. 
+
+May the odds be in your favor. When that round comes along make sure your captain marks which questions you are choosing to use for your VR!
+--
 
 === Teams link:teams/april25teams.html[Here]
 ==== Categories:
