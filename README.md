@@ -1,3 +1,7 @@
+# quarntinetriviasite
+
+quarantinetriviasite uses GitHub Pages with the Cayman Jekyll theme to service a site for playing trivia remotely.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/HaylieHelmold/quarantinetriviasite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
