@@ -17,7 +17,7 @@
 2. Fly That Flag
 3. June is Hot, Hot, Hot!*
 4. Disney Boys
-5. link:questions/round_5/WhosTalkingToWho.adoc[Who’s talking to Who]*
+5. link:questions/round_5/WhosTalkingToWho.html[Who’s talking to Who]*
 6. No one pays attention in History Class
 7. Order Matters
 8. Short and Sweet
