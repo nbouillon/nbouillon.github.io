@@ -1,8 +1,6 @@
 = Who’s talking to Who
 :imagesdir: ../../resources/video
 
-test
-
 ==== Can you Identify the movie from the clip and what character the person is talking to.
 
 ==== If you’re Jake’s team we also require the casting director
