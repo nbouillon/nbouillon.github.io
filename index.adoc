@@ -1,9 +1,9 @@
 = Quarantine Trivia Week 3
 :basepath: questions/round_
 
-=== Your Hosts: Haylie and Mitch
+== Your Hosts: Haylie and Mitch
 
-=== Possible Total Points: 125
+=== Total Possible Points: 125
 
 ==== Before we begin, we request that each captain email Haylie with 2 things:
 1. Your Team Name
@@ -12,9 +12,9 @@
 The Vegas Round:: 
 +
 --
-Each team may pick one category *without an* `*` from the list below before starting the game.
+Each team [.underline]#may# pick one category *without an* `*` from the list below before starting the game.
 
-For the category you pick, your team gets to choose 5 questions in that round to "bet" on.
+If you *do* pick a Vegas Round, your team gets to choose 5 questions in that round to "bet" on.
 
 If you get a Vegas Round question right, you get 2 points, but if you get it wrong, you get -1 point. 
 
