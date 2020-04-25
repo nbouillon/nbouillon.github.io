@@ -1,8 +1,13 @@
 = Disney Boys
 
-==== All answers are also the name of a male character in a Disney movie.
+[example]
+====
+All answers are also the name of a male character in a Disney movie.
 
-==== Possible Points: 10
+Possible Points: 10
+====
+
+'''
 
 1. What Houston based retailer founded in 2004 sells handbags, accessories and apparel?
 
@@ -23,5 +28,7 @@
 9. Considered a leader of the 12 Apostles this person is recognized by the Roman Catholic Church as the very first pope. What is his name?
 
 10.  His trademark is his brutal fighting style and to some he is considered the biggest star of the early 1990s Kung-Fu boom. You might know him by his stage name which is…?
+
+'''
 
 link:../../index.html[Click here to return to the main site.]

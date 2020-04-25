@@ -1,13 +1,31 @@
 = Who’s talking to Who
 :imagesdir: ../../resources/video
 
-==== Can you Identify the movie from the clip and what character the person is talking to.
 
-==== If you’re Jake’s team we also require the casting director
+++++
+<link rel="stylesheet"  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css">
+++++
 
-==== Possible Points: 20
+:icons: font
 
-Example Answer: Finding Nemo, Nemo
+[example]
+====
+* identify the movie the clip is from 
+
+* name the character that is being *spoken to*
+
+[.small]#Jake’s team is also required to name the boom operator#
+
+Possible Points: 20
+====
+
+[NOTE]
+.issues playing video
+--
+click [.small]#`Alternate File for Question #`# for a different version of the file 
+--
+
+'''
 
 .Example
 video::example/example.webm[width=50%,align="center"]
@@ -15,8 +33,13 @@ video::example/example.webm[width=50%,align="center"]
 .Alternate File for Example
 [%collapsible]
 ====
-video::example/example-fixed.mp4[width=50%]
+video::example/example.mp4[width=50%]
 ====
+
+[horizontal]
+Example Answer:: Finding Nemo, Nemo
+
+
 
 .Question 1
 video::vid1/vid1.webm[width=50%,align="center"]
@@ -55,6 +78,8 @@ video::vid5/vid5.webm[width=50%,align="center"]
 .Alternate File for Question 5
 [%collapsible]
 ====
+[.small]#_this video takes awhile to load on first play_#
+
 video::vid5/vid5.mp4[width=50%]
 ====
 
@@ -97,5 +122,7 @@ video::vid10/vid10.webm[width=50%,align="center"]
 ====
 video::vid10/vid10.mp4[width=50%]
 ====
+
+'''
 
 link:../../index.html[Click here to return to the main site.]

@@ -1,8 +1,13 @@
 = Short and Sweet
 
-==== One-word answers only please.
+[example]
+====
+One-word answers only.
 
-==== Possible Points: 10
+Possible Points: 10
+====
+
+'''
 
 1. What kind of weapon is a falchion?
 
@@ -23,5 +28,7 @@
 9. An estimated one million __ are believed to have been smuggled from 2000 to 2013, making them the world's most trafficked animals.
 
 10.  What Pokémon does Pikachu evolve into?
+
+'''
 
 link:../../index.html[Click here to return to the main site.]

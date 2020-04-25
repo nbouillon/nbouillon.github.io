@@ -1,8 +1,13 @@
 = We Wish You a Merry…
 
-== How well do you know your unofficial holidays?
+[example]
+====
+How well do you know your unofficial holidays?
 
-==== Possible Points: 10
+Possible Points: 10
+====
+
+'''
 
 1. In the 1970s, at 4:20pm high school students in California would meet to smoke pot. What is the name of the unofficial holiday celebrated now on April 20th?
 
@@ -22,6 +27,8 @@
 
 9. What holiday is based off the secular December celebrations of Frank Costanza? 
 
-10. What holiday do we commemorate the birthday of a soldier often considered the “father of American Calvary”? 
+10. What holiday do we commemorate the birthday of a soldier often considered the “father of American Cavalry? 
+
+'''
 
 link:../../index.html[Click here to return to the main site.]

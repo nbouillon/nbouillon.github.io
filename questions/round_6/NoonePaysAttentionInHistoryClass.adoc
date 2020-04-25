@@ -1,8 +1,13 @@
 = No one pays attention in History Class
 
-==== Did you know there’s other history than American history?! 
+[example]
+==== 
+Did you know there’s other history than American history?!
 
-==== Possible Points: 10
+Possible Points: 10
+====
+
+'''
 
 1. In just 100 days in 1994, about 800,000 people were slaughtered in Rwanda by what extremist group?
 
@@ -23,5 +28,7 @@
 9. Who crowned Napoleon Emperor of France?
 
 10. What nomadic warriors are best known for being ruthless savages and impressive horsemen who terrorized much of Europe in the 4th and 5th centuries A.D.?
+
+'''
 
 link:../../index.html[Click here to return to the main site.]

@@ -1,44 +1,59 @@
 = Teams
 
+[stripes=even]
 |===
-| Team 1 | Team 2 |Team 3 | Team 4 | Team 5
+| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5
 
+|
 |Tim
 |Patty
 |Rick
 |Peggy
 |Don
 
+|
 |Dan
 |Mary
 |Billy
 |Terry
 |Sandy
 
+|
 |Claire
 |Jeannie
 |Ann
 |Linda
 |Igor
 
+|
 |Noah
 |Mike
 |Jake
 |Bobby
 |Shannon
 
+|
 |Becky
 |Vickie
 |Maria
 |Betsy
 |Ryan
 
+|
 |Hayes
 |Catherine
 |
 |Bridget
 |
 
+|
+|
+| Brandon
+|
+|
+|
+
+|score
 |0
 |0
 |0
@@ -46,15 +61,6 @@
 |0
 |===
 
-
-1st -
-
-2nd - 
-
-3rd - 
-
-4th - 
-
-5th - 
+'''
 
 link:../index.html[Click here to return to the main site]

@@ -1,8 +1,11 @@
 = Order Matters
 
-==== It’s all or Nothing here!
+[example]
+====
+It’s all or Nothing here!
 
-==== Possible Points: 12
+Possible Points: 12
+====
 
 1. Put these mathematical constants in order from smallest to largest:
 	- Golden Ratio φ 
@@ -54,5 +57,7 @@
 	- Farrah Fawcett
 	- Patrick Swayze
 	- Ted Kennedy
+
+'''
 
 link:../../index.html[Click here to return to the main site.]

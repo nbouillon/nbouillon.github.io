@@ -1,9 +1,6 @@
 = Quarantine Trivia Week 3
 :basepath: questions/round_
 
-
-test
-
 == Your Hosts: Haylie and Mitch
 
 === Total Possible Points: 125
@@ -24,8 +21,9 @@ If you get a Vegas Round question right, you get 2 points, but if you get it wro
 May the odds be in your favor. When that round comes along make sure your captain marks which questions you are choosing to use for your VR!
 --
 
-=== Teams link:teams/april25teams.html[Here]
-==== Categories:
+=== link:teams/april25teams.html[Teams]
+
+=== Categories:
 
 1. We Wish You a Merry…
 2. Fly That Flag
@@ -36,3 +34,20 @@ May the odds be in your favor. When that round comes along make sure your captai
 7. Order Matters
 8. Short and Sweet
 9. Tie Breaker (If necessary)
+
+=== Standings
+[%autowidth,cols="3*^",stripes=even]
+|===
+| |team |score
+
+|1st | |
+
+|2nd | |
+
+|3rd | |
+
+|4th | |
+
+|5th | |
+
+|===

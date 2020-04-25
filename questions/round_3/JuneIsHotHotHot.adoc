@@ -1,10 +1,20 @@
 = June is Hot, Hot, Hot!
 
-==== These songs were all Number 1 on Billlboard’s Hot 100 for a week in June.
+[example]
+====
+These songs were all Number 1 on Billboard’s Hot 100 for a week in June.
 
-==== Can you name the Artist (1 point) and the year (1 point). Some have more than one Artist for bonus points. Hint: There are no repeating years.
+* name at least one artist (1 point)
+** for songs with more than one artist, 1 bonus point for every extra correct artist
 
-==== Possible Points: 38
+* list the year (1 point)
+
+TIP: There are no repeating years.
+
+Possible Points: 38
+====
+
+'''
 
 1. Sir Duke
 
@@ -37,5 +47,7 @@
 15. Time After Time
 
 16. Umbrella
+
+'''
 
 link:../../index.html[Click here to return to the main site.]
