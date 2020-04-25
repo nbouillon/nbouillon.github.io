@@ -12,7 +12,7 @@
 The Vegas Round:: 
 +
 --
-Each team may pick one category without an `*` from the list below before starting the game.
+Each team may pick one category *without an* `*` from the list below before starting the game.
 
 For the category you pick, your team gets to choose 5 questions in that round to "bet" on.
 
