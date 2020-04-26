@@ -48,14 +48,14 @@ You *must* choose 5 questions to bet on.
 |===
 | |team |score
 
-|1st | |
+|1st |The Dirty Vickers |8
 
-|2nd | |
+|1st |The Masters |8
 
-|3rd | |
+|3rd |The Daisies |7
 
-|4th | |
+|4th |Team Carlson |6
 
-|5th | |
+|5th |The Gamblers |4
 
 |===
