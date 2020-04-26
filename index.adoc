@@ -37,7 +37,8 @@ You *must* choose 5 questions to bet on.
 2. link:{basepath}2/FlyThatFlag.html[Fly That Flag]
 * link:{basepath}2/FlyThatFlagAnswers.html[answers]
 3. link:{basepath}3/JuneIsHotHotHot.html[June is Hot, Hot, Hot!*]
-4. Disney Boys
+* link:{basepath}3/JuneIsHotHotHotAnswers.html[answers]
+4. link:{basepath}4/DisneyBoys.html[Disney Boys]
 5. Who’s talking to Who*
 6. No one pays attention in History Class
 7. Order Matters
