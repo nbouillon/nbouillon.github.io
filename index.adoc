@@ -39,7 +39,8 @@ You *must* choose 5 questions to bet on.
 3. link:{basepath}3/JuneIsHotHotHot.html[June is Hot, Hot, Hot!*]
 * link:{basepath}3/JuneIsHotHotHotAnswers.html[answers]
 4. link:{basepath}4/DisneyBoys.html[Disney Boys]
-5. Who’s talking to Who*
+* link:{basepath}4/DisneyBoysAnswers.html[answers]
+5. link:{basepath}5/WhosTalkingToWho.html[Who’s talking to Who*]
 6. No one pays attention in History Class
 7. Order Matters
 8. Short and Sweet
@@ -50,14 +51,14 @@ You *must* choose 5 questions to bet on.
 |===
 | |team |score
 
-|1st |Team Carlson |20
+|1st |Team Carlson |40
 
-|2nd |The Masters |15
+|2nd |The Masters |38
 
-|2nd |The Dirty Vicers |15
+|3rd |The Dirty Vicers |36
 
-|4th |The Daisies |12
+|5th |The Daisies |30
 
-|5th |The Gamblers |11
+|5th |The Gamblers |30
 
 |===

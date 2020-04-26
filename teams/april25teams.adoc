@@ -19,28 +19,28 @@
 |Sandy
 
 |
-|
+|Noah
 |Brandon
 |Ann
 |Linda
 |Igor
 
 |
-|Noah
+|Becky
 |Mike
 |Jake
 |Bobby
 |Shannon
 
 |
-|Becky
+|Hayes
 |Vickie
 |Maria
 |Betsy
 |Ryan
 
 |
-|Hayes
+|
 |Catherine
 |
 |Bridget
@@ -54,11 +54,11 @@
 |fly that flag
 
 |score
-|7 + 5 = 12
-|4 + 7 = 11
-|8 + 7 = 15
-|8 + 7 = 15
-|6 + 14 = 20
+|7 + 5 + 18 = 30
+|4 + 7 + 19 = 30
+|8 + 7 + 23 = 38
+|8 + 7 + 21 = 36
+|6 + 14 + 20 = 40
 |===
 
 '''
