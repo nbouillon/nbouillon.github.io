@@ -41,7 +41,8 @@ You *must* choose 5 questions to bet on.
 4. link:{basepath}4/DisneyBoys.html[Disney Boys]
 * link:{basepath}4/DisneyBoysAnswers.html[answers]
 5. link:{basepath}5/WhosTalkingToWho.html[Who’s talking to Who*]
-6. No one pays attention in History Class
+* link:{basepath}5/WhosTalkingToWhoAnswers.html[answers]
+6. link:{basepath}6/NoonePaysAttentionInHistoryClass.html[No one pays attention in History Class]
 7. Order Matters
 8. Short and Sweet
 9. Tie Breaker (If necessary)
