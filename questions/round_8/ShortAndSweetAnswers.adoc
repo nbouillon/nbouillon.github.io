@@ -1,0 +1,16 @@
+=== Short and Sweet Answers
+
+1. Sword
+2. Casablanca
+3. StarTAC
+4. Plateau
+5. Mary 
+6. Smack
+7. Quantas
+8. Java
+9. Pangolins
+10. Raichu
+
+'''
+
+link:../../index.html[Click here to return to the main site]

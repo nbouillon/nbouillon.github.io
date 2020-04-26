@@ -47,6 +47,7 @@ You *must* choose 5 questions to bet on.
 7. link:{basepath}7/OrderMatters.html[Order Matters]
 * link:{basepath}7/OrderMattersAnswers.html[answers]
 8. link:{basepath}8/ShortAndSweet.html[Short and Sweet]
+* link:{basepath}8/ShortAndSweetAnswers.html[answers]
 9. Tie Breaker (If necessary)
 
 === Standings
