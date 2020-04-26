@@ -69,6 +69,6 @@ You *must* choose 5 questions to bet on.
 
 == Thanks for playing!
 
-TIP: you can check your round scores in the link:teams/april25teams.html[Teams]
+TIP: you can check your round scores in the link:teams/april25teams.html[Teams] page
 
 Any complaints or issues can be directed to Jake.
