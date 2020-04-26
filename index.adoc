@@ -43,7 +43,8 @@ You *must* choose 5 questions to bet on.
 5. link:{basepath}5/WhosTalkingToWho.html[Who’s talking to Who*]
 * link:{basepath}5/WhosTalkingToWhoAnswers.html[answers]
 6. link:{basepath}6/NoonePaysAttentionInHistoryClass.html[No one pays attention in History Class]
-7. Order Matters
+* link:{basepath}6/NoonePaysAttentionInHistoryClassAnswers.html[answers]
+7. link:{basepath}7/OrderMatters.html[Order Matters]
 8. Short and Sweet
 9. Tie Breaker (If necessary)
 
