@@ -1,8 +1,8 @@
 = Teams
 
-[stripes=even]
+[%autowidth,stripes=even,]
 |===
-| | Team 1 | Team 2: The Daisies |Team 3: The Daisies Suck | Team 4: The Dirty Vickers | Team 5: Team Carlson
+| | Team 1: The Daisies | Team 2: The Gamblers |Team 3: The Masters | Team 4: The Dirty Vickers | Team 5: Team Carlson
 
 |
 |Tim
@@ -20,7 +20,7 @@
 
 |
 |
-|
+|Brandon
 |Ann
 |Linda
 |Igor
@@ -46,12 +46,12 @@
 |Bridget
 |
 
-|
-|
-| Brandon
-|
-|
-|
+|vegas round
+|disney boys
+|disney boys
+|short and sweet
+|disney boys
+|fly that flag
 
 |score
 |0
