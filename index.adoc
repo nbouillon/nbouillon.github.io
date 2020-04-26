@@ -6,6 +6,7 @@
 ++++
 
 :icons: font
+
 == Your Hosts: Haylie and Mitch
 
 === Total Possible Points: 125
