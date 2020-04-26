@@ -1,6 +1,11 @@
 = Quarantine Trivia Week 3
 :basepath: questions/round_
 
+++++
+<link rel="stylesheet"  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css">
+++++
+
+:icons: font
 == Your Hosts: Haylie and Mitch
 
 === Total Possible Points: 125
@@ -25,7 +30,14 @@ May the odds be in your favor. When that round comes along make sure your captai
 
 === Categories:
 
-1. We Wish You a Merry…
+[IMPORTANT]
+--
+*If* you opted-in to a Vegas Round, make sure to note which 5 questions you're betting on in your chosen round.
+
+You *must* choose 5 questions to bet on.
+--
+
+1. link:{basepath}1/WeWishYouAMerry.html[We Wish You a Merry…]
 2. Fly That Flag
 3. June is Hot, Hot, Hot!*
 4. Disney Boys
