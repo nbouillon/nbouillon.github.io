@@ -1,0 +1,17 @@
+=== Order Matters Answers
+
+1. golden ratio 1.618, universal parabolic constant 2.295, euler’s number 2.718, pi 3.141
+2. Ringo, John, Pete, Paul, George
+3. Martin Van Buren
+Martin, Millard, James, Chester
+4. Amazon 1994, Netflix 1997, Google 1998, Facebook 2004
+5. Boston Terrier, Icelandic Sheepdogs, Afghan Hounds, Leonbergers
+6. Jupiter, Saturn, Mars, Mercury
+7. Nevada, Wyoming, Indiana, Maine
+8. Jane Austen 1811, George Orwell 1933, JRR Tolkien 1954, RL Stine 1986
+9. Panera Caesar Salad 340, Taco Bell Crunchwrap supreme 530, Big Mac 540, Arbys Brisket bacon beef and cheddar 760
+10. Farrah Fawcett June 25, Michael Jackson June 25, Ted Kennedy August 25, Patrick Swayze September 14
+
+'''
+
+link:../../index.html[Click here to return to the main site]

@@ -45,7 +45,8 @@ You *must* choose 5 questions to bet on.
 6. link:{basepath}6/NoonePaysAttentionInHistoryClass.html[No one pays attention in History Class]
 * link:{basepath}6/NoonePaysAttentionInHistoryClassAnswers.html[answers]
 7. link:{basepath}7/OrderMatters.html[Order Matters]
-8. Short and Sweet
+* link:{basepath}7/OrderMattersAnswers.html[answers]
+8. link:{basepath}8/ShortAndSweet.html[Short and Sweet]
 9. Tie Breaker (If necessary)
 
 === Standings
@@ -61,6 +62,6 @@ You *must* choose 5 questions to bet on.
 
 |4th |The Daisies |56
 
-|5th |Team Carlson |55
+|4th |Team Carlson |56
 
 |===
