@@ -19,4 +19,4 @@
 
 '''
 
-link:../index.html[Click here to return to the main site]
+link:../../index.html[Click here to return to the main site]
