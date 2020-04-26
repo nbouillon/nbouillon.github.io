@@ -125,4 +125,4 @@ video::vid10/vid10.mp4[width=50%]
 
 '''
 
-link:../../index.html[Click here to return to the main site.]
+link:../../index.html[Click here to return to the main site]

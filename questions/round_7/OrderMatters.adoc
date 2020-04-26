@@ -60,4 +60,4 @@ Possible Points: 12
 
 '''
 
-link:../../index.html[Click here to return to the main site.]
+link:../../index.html[Click here to return to the main site]
