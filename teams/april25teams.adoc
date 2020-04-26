@@ -2,7 +2,7 @@
 
 [%autowidth,stripes=even,]
 |===
-| | Team 1: The Daisies | Team 2: The Gamblers |Team 3: The Masters | Team 4: The Dirty Vicers | Team 5: Team Carlson
+| | Team 1: The Daisies | Team 2: The Gamblers |Team 3: The Masters | Team 4: The Dirty Vicars | Team 5: Team Carlson
 
 |
 |Tim
