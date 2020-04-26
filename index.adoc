@@ -33,7 +33,7 @@ You *must* choose 5 questions to bet on.
 --
 
 1. link:{basepath}1/WeWishYouAMerry.html[We Wish You a Merry…]
-2. Fly That Flag
+2. link:{basepath}2/FlyThatFlag.html[Fly That Flag]
 3. June is Hot, Hot, Hot!*
 4. Disney Boys
 5. Who’s talking to Who*
