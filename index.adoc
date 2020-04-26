@@ -1,12 +1,6 @@
 = Quarantine Trivia Week 3
 :basepath: questions/round_
 
-++++
-<link rel="stylesheet"  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css">
-++++
-
-:icons: font
-
 == Your Hosts: Haylie and Mitch
 
 === Total Possible Points: 125
