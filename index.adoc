@@ -55,14 +55,14 @@ You *must* choose 5 questions to bet on.
 |===
 | |team |score
 
-|1st |The Masters |76
+|1st |The Masters |88
 
-|2nd |The Dirty Vicars |69
+|2nd |The Dirty Vicars |74
 
-|3rd |The Gamblers |66
+|3rd |The Gamblers |68
 
-|4th |The Daisies |59
+|4th |The Daisies |64
 
-|5th |Team Carlson |57
+|5th |Team Carlson |62
 
 |===
