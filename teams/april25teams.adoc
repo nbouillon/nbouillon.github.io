@@ -2,7 +2,7 @@
 
 [%autowidth,stripes=even,]
 |===
-| | Team 1: The Daisies | Team 2: The Gamblers |Team 3: The Masters | Team 4: The Dirty Vickers | Team 5: Team Carlson
+| | Team 1: The Daisies | Team 2: The Gamblers |Team 3: The Masters | Team 4: The Dirty Vicers | Team 5: Team Carlson
 
 |
 |Tim
@@ -54,11 +54,11 @@
 |fly that flag
 
 |score
-|7
-|4
-|8
-|8
-|6
+|7 + 5 = 12
+|4 + 7 = 11
+|8 + 7 = 15
+|8 + 7 = 15
+|6 + 14 = 20
 |===
 
 '''
