@@ -5,16 +5,16 @@
 
 === Possible Total Points: 100
 
-=== Teams link:../teams/may30teams.html[Here]
+=== Teams link:../teams/may30teams.html[May 30th Teams]
 
 ==== Categories:
 
-1. link:{basepath}1/CapitalIdea,MyBoy!.html[Capital Idea. My Boy!]
-2. Potpourri
-3. Movies You Don't Want to See
-4. That Todlin' Town
-5. The Name of the Game
-6. Country Time
-7. Lots of Stories
-8. NFL Cheer!
-9.Finish the Lyric
+1. link:{basepath}1/CapitalIdeaMyBoy.html[Capital Idea. My Boy!]
+2. link:{basepath}2/Potpourri.html[Potpourri]
+3. link:{basepath}3/MoviesYouDontWanttoSee.html[Movies You Don't Want to See]
+4. link:{basepath}4/ThatTodlinTown.html[That Todlin' Town]
+5. link:{basepath}5/TheNameoftheGame.html[The Name of the Game]
+6. link:{basepath}6/CountryTime.html[Country Time]
+7. link:{basepath}7/LotsofStories.html[Lots of Stories]
+8. link:{basepath}8/NFLCheer.html[NFL Cheer!]
+9. link:{basepath}9/FinishtheLyric.html[Finish the Lyric]
