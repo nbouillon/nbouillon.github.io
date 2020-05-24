@@ -5,7 +5,7 @@
 
 === Possible Total Points: 100
 
-=== Teams link: ../teams/may30teams.html[Here]
+=== Teams link:../teams/may30teams.html[Here]
 
 ==== Categories:
 
