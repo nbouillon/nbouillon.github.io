@@ -1,1 +1,21 @@
-Bob and BRidget host triivia
+= Quarantine Trivia Week 3
+:basepath: May30/questions/round_
+
+=== Your Hosts: Bob and Bridget
+
+=== Possible Total Points: 
+
+=== Teams link:../teams/may30teams.adoc[Here]
+
+==== Categories:
+
+1. link:{basepath}1/WeWishYouAMerry.html[We Wish You a Merry…]
+2. Potpourri
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
