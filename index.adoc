@@ -1,4 +1,4 @@
-= Quarantine Trivia Week 3
+= Quarantine Trivia Week 6
 :basepath: May30/questions/round_
 
 === Your Hosts: Bob and Bridget
