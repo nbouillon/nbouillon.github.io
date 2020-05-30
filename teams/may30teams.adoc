@@ -2,44 +2,38 @@
 
 [%autowidth,stripes=even,]
 |===
-| Team 1 | Team 2 |Team 3 | Team 4 | Team 5
+| Team 1 | Team 2 |Team 3 | Team 4 
 
 
 |Jeanie
 |Haylie
 |Mary
 |Tim
-|Betsy
 
 |Adam
 |Mitch
 |Patty
 |Ann
-|
 
 |Brandon
 |Brad
 |Linda
 |Maria
-|
 
 |Katie
 |Beth
-|Hayes
+|Terry
 |Mike
-|
 
 |Noah
 |Anna
 |Jake
 |Vicky
-|
 
 |Becky
 |Mark
 |
-|
-|
+|Hayes
 |===
 
 '''
