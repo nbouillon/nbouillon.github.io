@@ -9,7 +9,7 @@
 
 ==== Categories:
 
-1. link:{basepath}1/CapitalIdeaMyBoy.html[Capital Idea. My Boy!]
+1. link:{basepath}1/CapitalIdeaMyBoy.html[Capital Idea, My Boy!]
 2. link:{basepath}2/Potpourri.html[Potpourri]
 3. link:{basepath}3/MoviesYouDontWanttoSee.html[Movies You Don't Want to See]
 4. link:{basepath}4/ThatTodlinTown.html[That Todlin' Town]
@@ -18,3 +18,84 @@
 7. link:{basepath}7/LotsofStories.html[Lots of Stories]
 8. link:{basepath}8/NFLCheer.html[NFL Cheer!]
 9. link:{basepath}9/FinishtheLyric.html[Finish the Lyric]
+
+'''
+= Teams & Scores
+
+[%autowidth,stripes=even,]
+|===
+| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5
+
+|Round 1
+|
+|
+|
+|
+|
+
+|Round 2   
+|
+|
+|
+|
+|
+
+| Round 3
+|
+|
+|
+|
+|
+
+|Round 4
+|
+|
+|
+|
+|
+
+|Round 5
+|
+|
+|
+|
+|
+
+|Round 6
+|
+|
+|
+|
+|
+
+|Round 7
+|
+|
+|
+|
+|
+
+|Round 8
+|
+|
+|
+|
+|
+
+|Round 9
+|
+|
+|
+|
+|
+
+|Final
+|
+|
+|
+|
+|
+|===
+
+'''
+
