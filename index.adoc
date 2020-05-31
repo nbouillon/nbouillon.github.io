@@ -17,7 +17,7 @@
 6. link:{basepath}6/CountryTime.html[Country Time]
 7. link:{basepath}7/LotsofStories.html[Lots of Stories]
 8. link:{basepath}8/NFLCheer.html[NFL Cheer!]
-9. Finish the Lyric
+9. link:{basepath}9/FinishtheLyric.html[Finish the Lyric]
 
 '''
 = Teams & Scores
@@ -63,10 +63,10 @@
 |1
 
 |Round 7
-|
-|
-|
-|
+|8
+|7
+|12
+|4
 
 |Round 8
 |
@@ -82,9 +82,9 @@
 
 |Final
 |30
-|11.5
-|37.5
-|25.5
+|18.5
+|49.5
+|29.5
 |===
 
 '''
