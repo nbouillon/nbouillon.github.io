@@ -10,7 +10,7 @@
 ==== Categories:
 
 1. link:{basepath}1/CapitalIdeaMyBoy.html[Capital Idea, My Boy!]
-2. Potpourri
+2. link:{basepath}2/Potpourri.html[Potpourri]
 3. Movies You Don't Want to See
 4. That Todlin' Town
 5. What's in a Name?
@@ -24,10 +24,9 @@
 
 [%autowidth,stripes=even,]
 |===
-| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5
+| | Team 1 | Team 2 |Team 3 | Team 4
 
 |Round 1
-|
 |
 |
 |
@@ -38,10 +37,8 @@
 |
 |
 |
-|
 
 | Round 3
-|
 |
 |
 |
@@ -52,10 +49,8 @@
 |
 |
 |
-|
 
 |Round 5
-|
 |
 |
 |
@@ -66,10 +61,8 @@
 |
 |
 |
-|
 
 |Round 7
-|
 |
 |
 |
@@ -80,17 +73,14 @@
 |
 |
 |
-|
 
 |Round 9
 |
 |
 |
 |
-|
 
 |Final
-|
 |
 |
 |
