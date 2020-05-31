@@ -11,7 +11,7 @@
 
 1. link:{basepath}1/CapitalIdeaMyBoy.html[Capital Idea, My Boy!]
 2. link:{basepath}2/Potpourri.html[Potpourri]
-3. link:{basebath}3/MoviesYouDontWantToSee.html[Movies You Don't Want to See]
+3. link:{basepath}3/MoviesYouDontWantToSee.html[Movies You Don't Want to See]
 4. That Todlin' Town
 5. What's in a Name?
 6. Country Time
