@@ -9,7 +9,7 @@
 
 ==== Categories:
 
-1. Capital Idea, My Boy!
+1. link:{basepath}1/CapitalIdeaMyBoy.html[Capital Idea, My Boy!]
 2. Potpourri
 3. Movies You Don't Want to See
 4. That Todlin' Town
