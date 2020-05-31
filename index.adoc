@@ -16,7 +16,7 @@
 5. link:{basepath}5/Whatsinaname.html[What's in a Name?]
 6. link:{basepath}6/CountryTime.html[Country Time]
 7. link:{basepath}7/LotsofStories.html[Lots of Stories]
-8. NFL Cheer!
+8. link:{basepath}8/NFLCheer.html[NFL Cheer!]
 9. Finish the Lyric
 
 '''
