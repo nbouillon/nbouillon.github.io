@@ -14,7 +14,7 @@
 3. link:{basepath}3/MoviesYouDontWantToSee.html[Movies You Don't Want to See]
 4. link:{basepath}4/ThatTodlinTown.html[That Todlin' Town]
 5. link:{basepath}5/Whatsinaname.html[What's in a Name?]
-6. Country Time
+6. link:{basepath}6/CountryTime.html[Country Time]
 7. Lots of Stories
 8. NFL Cheer!
 9. Finish the Lyric
@@ -48,7 +48,7 @@
 |1
 |1
 |2
-|3
+|4
 
 |Round 5
 |
@@ -84,7 +84,7 @@
 |22
 |10.5
 |23.5
-|15.5
+|16.5
 |===
 
 '''
