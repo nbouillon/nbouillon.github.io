@@ -1,0 +1,52 @@
+= English is the greatest Language
+
+[example]
+====
+Can you figure out the common english phrase or idiom when given the meaning. Yes I agree, English makes no sense.
+
+Example: Completing two actions with one = Killing two birds with one stone
+
+Possible Points: 18
+====
+
+'''
+
+1. A good thing that seemed bad at first
+
+2. Avoid saying what you mean, usually because it is uncomfortable
+
+3. To get something over with because it is inevitable
+
+4. Go to sleep
+
+5. Do something without having planned beforehand
+
+6. To make a bad situation worse
+
+7. The son is like the father
+
+8. You can't force someone to make the right decision
+
+9. Don’t take it too seriously
+
+10. The big issue, the problem people are avoiding
+
+11. Destroy relationships
+
+12. Stop asking questions
+
+13. We agree
+
+14. Move on, this subject is over
+
+15. They're always together
+
+16. Go through something difficult
+
+17. You'll get what you want by being nice
+
+18. Have more energy after having been tired
+
+'''
+
+link:../../index.html[Click here to return to the main site]

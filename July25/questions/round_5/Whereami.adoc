@@ -1,0 +1,25 @@
+= English is the greatest Language
+
+[example]
+====
+Where are you when you are...
+
+Possible Points: 10
+====
+
+'''
+
+1. North of Niagara Falls
+2. On the summit of Mt Everest
+3. Swimming from Australia to New Zealand
+4. Looking at the Great Sphinx
+5. On the northern Border of Lake Victoria
+6. At the Peak of Mt Elbert, Rocky Mountains
+7. In the Badlands National Park
+8. On the island west of the Straight of Georgia
+9. Northeast of the North Sea
+10. Southwest of the Gulf of Mexico
+
+'''
+
+link:../../index.html[Click here to return to the main site]

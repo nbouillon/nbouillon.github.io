@@ -1,90 +1,92 @@
-= Quarantine Trivia Week 6
-:basepath: May30/questions/round_
+= Quarantine Trivia Week 10
+:basepath: July25/questions/round_
 
-=== Your Hosts: Bob and Bridget
+=== Your Hosts: Mitch, Catherine and Haylie
 
 === Possible Total Points: 100
 
-=== Teams link:../teams/may30teams.html[Here]
+=== Teams link:../teams/july25teams.html[Here]
 
 ==== Categories:
 
-1. link:{basepath}1/CapitalIdeaMyBoy.html[Capital Idea, My Boy!]
-2. link:{basepath}2/Potpourri.html[Potpourri]
-3. link:{basepath}3/MoviesYouDontWantToSee.html[Movies You Don't Want to See]
-4. link:{basepath}4/ThatTodlinTown.html[That Todlin' Town]
-5. link:{basepath}5/Whatsinaname.html[What's in a Name?]
-6. link:{basepath}6/CountryTime.html[Country Time]
-7. link:{basepath}7/LotsofStories.html[Lots of Stories]
-8. link:{basepath}8/NFLCheer.html[NFL Cheer!]
-9. link:{basepath}9/FinishtheLyric.html[Finish the Lyric]
+1. link:{basepath}1/Whatsinaname.html[What's in a Name?]
+2. link:{basepath}2/CouchPotato.html[Couch Potato]
+3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
+4. link:{basepath}4/[Can you hear me now?]
+5. link:{basepath}5/Whereami.html[Where Am I]
+6. link:{basepath}6/[]
+7. link:{basepath}7/[]
+8. link:{basepath}8/[]
+9. link:{basepath}9/[]
 
 '''
-= Teams & Scores
+
+== Teams & Scores
 
 [%autowidth,stripes=even,]
 |===
 | | Team 1 | Team 2 |Team 3 | Team 4
 
 |Round 1
-|8
-|1
-|7
-|2
+|
+|
+|
+|
 
 |Round 2   
-|4
-|3
-|5
-|1
+|
+|
+|
+|
 
 | Round 3
-|9
-|5.5
-|9.5
-|9.5
+|
+|
+|
+|
 
 |Round 4
-|1
-|1
-|3
-|4
+|
+|
+|
+|
 
 |Round 5
-|6
-|1
-|10
-|8
+|
+|
+|
+|
 
 |Round 6
-|2
-|0
-|3
-|1
+|
+|
+|
+|
 
 |Round 7
-|8
-|7
-|12
-|4
+|
+|
+|
+|
 
 |Round 8
-|5
-|4
-|10
-|6
+|
+|
+|
+|
 
 |Round 9
-|2
-|2
-|5
-|3
+|
+|
+|
+|
 
 |Final
-|45
-|24.5
-|64.5
-|38.5
+|
+|
+|
+|
+
 |===
 
 '''
