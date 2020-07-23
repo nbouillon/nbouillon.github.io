@@ -2,7 +2,7 @@
 
 [example]
 ====
-Can you figure out the common english phrase or idiom when given the meaning. Yes I agree, English makes no sense.
+Can you figure out the common English phrase or idiom when given the meaning. Yes I agree, English makes no sense.
 
 Example: Completing two actions with one = Killing two birds with one stone
 

@@ -32,45 +32,43 @@ Possible Points: 15
 10. Who sang “I’ll Make a Man Out of You” in Mulan?
 
 
-=== Match these Disney Pets/Sidekicks with their main character (1/2 point each):
-
-== Teams & Scores
+=== Match these Disney Pets/Sidekicks with their main character (1/2 point each, they are not in the correct order):
 
 [%autowidth,stripes=even,]
 |===
-| Pets/Sidekicks
+| Pets/Sidekicks | Main Characters
 
 |11. Iago 
+|A. Jasmine
 
 |12. HeiHei
+|B. Flynn Rider
 
 |13. Flotsam
+|C. Lilo
 
 |14. Stitch
+|D. Mufasa
 
 |15. Rajah
+|E. Jafar
 
 |16. Zazu
+|F. Pocahontas
 
 |17. Maximus
+|G. Ursula
 
 |18. Meeko
+|H. Mulan
 
 |19. Mushu
+|I. Maleficient
 
 |20. Diablo
+|J. Moana
 |===
 
-A. Jasmine
-B. Flynn Rider
-C. Lilo
-D. Mufasa
-E. Jafar
-F. Pocahontas
-G. Ursula
-H. Mulan
-I. Maleficient
-J. Moana
 
 '''
 

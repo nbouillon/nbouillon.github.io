@@ -17,7 +17,7 @@
 6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
 7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
 8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
-9. link:{basepath}8/tocatchathief.html[To Catch a Thief]
+9. link:{basepath}9/tocatchathief.html[To Catch a Thief]
 
 
 '''
