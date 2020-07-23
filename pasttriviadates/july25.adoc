@@ -1,0 +1,95 @@
+= Quarantine Trivia Week 10
+:basepath: July25/questions/round_
+
+== Your Hosts: Mitch, Catherine and Haylie
+
+== Possible Total Points: 115
+
+== Teams link:../teams/july25teams.html[Here]
+
+=== Categories:
+
+1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
+2. link:{basepath}2/CouchPotato.html[Couch Potato]
+3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
+4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
+5. link:{basepath}5/Whereami.html[Where Am I]
+6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
+7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
+8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
+9. link:{basepath}9/whatsinaname.html[Who's That Lady]
+10. link:{basepath}10/memes.html[The Internet is a fad]
+
+
+'''
+
+== Teams & Scores
+
+[%autowidth,stripes=even,]
+|===
+| | Team 1 | Team 2 |Team 3 | Team 4
+
+|Round 1
+|
+|
+|
+|
+
+|Round 2   
+|
+|
+|
+|
+
+| Round 3
+|
+|
+|
+|
+
+|Round 4
+|
+|
+|
+|
+
+|Round 5
+|
+|
+|
+|
+
+|Round 6
+|
+|
+|
+|
+
+|Round 7
+|
+|
+|
+|
+
+|Round 8
+|
+|
+|
+|
+
+|Round 9
+|
+|
+|
+|
+
+|Final
+|
+|
+|
+|
+
+|===
+
+'''
+
