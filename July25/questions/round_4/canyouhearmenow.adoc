@@ -1,0 +1,25 @@
+= Can you hear me now?
+
+[example]
+====
+Here is a list of commonly misheard song lyrics. Do you know the correct lyric?
+
+Possible Points: 10
+====
+
+'''
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10.
+
+'''
+
+link:../../../index.html[Click here to return to the main site]
