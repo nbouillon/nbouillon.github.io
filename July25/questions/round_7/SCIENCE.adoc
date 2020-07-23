@@ -1,0 +1,25 @@
+= She Blinded me with Science
+
+[example]
+====
+Answer these general knowledge science questions.
+
+Possible Points: 11
+====
+
+'''
+
+1. Herpetology is the study of what?
+2. What's the rarest blood type?
+3. What is the largest known land animal? Bonus: What's the largest known animal?
+4. Animals that eat both plants and meat are called what?
+5. Where can you find the smallest bone in the human body?
+6. What is the only mammal capable of flying?
+7. What are electrically charged atoms called?
+8. Who is the father of science?
+9. A scientist who studies the history of life on Earth through the fossil record is called a...? 
+10. Finish Newton's third law of motion, "For every action, ____"?
+
+'''
+
+link:../../../index.html[Click here to return to the main site]

@@ -1,0 +1,77 @@
+= The Happiest Franchise on Earth
+
+[example]
+====
+This is Catherine's makeup for the last Disney round I made her do.
+
+Possible Points: 15
+====
+
+'''
+
+=== General Questions
+
+1. How many years was the Genie trapped in the lamp before Aladdin found him?
+
+2. True or False, Mickey Mouse is the first cartoon character to get a star on the Hollywood Walk of Fame?
+
+3. What is the second movie that was created by the Disney/Pixar partnership?
+
+4. What's the name of Andy's neighbor in Toy Story?
+
+5. Who is the fashion designer in The Incredibles?
+
+6. How old is Crush in Finding Nemo?
+
+7. The Princess and the Frog is set in which city?
+
+8. In Monster’s, Inc., what does Boo's door look like?
+
+9. In Coco, what does Miguel steal that gets him sent to the land of the dead?
+
+10. Who sang “I’ll Make a Man Out of You” in Mulan?
+
+
+=== Match these Disney Pets/Sidekicks with their main character (1/2 point each):
+
+== Teams & Scores
+
+[%autowidth,stripes=even,]
+|===
+| Pets/Sidekicks
+
+|11. Iago 
+
+|12. HeiHei
+
+|13. Flotsam
+
+|14. Stitch
+
+|15. Rajah
+
+|16. Zazu
+
+|17. Maximus
+
+|18. Meeko
+
+|19. Mushu
+
+|20. Diablo
+|===
+
+A. Jasmine
+B. Flynn Rider
+C. Lilo
+D. Mufasa
+E. Jafar
+F. Pocahontas
+G. Ursula
+H. Mulan
+I. Maleficient
+J. Moana
+
+'''
+
+link:../../../index.html[Click here to return to the main site]

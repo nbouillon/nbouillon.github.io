@@ -14,10 +14,11 @@
 3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
 4. link:{basepath}4/[Can you hear me now?]
 5. link:{basepath}5/Whereami.html[Where Am I]
-6. link:{basepath}6/[]
-7. link:{basepath}7/[]
-8. link:{basepath}8/[]
-9. link:{basepath}9/[]
+6. link:{basepath}6/[Jingle Jangle]
+7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
+8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
+9. link:{basepath}8/[To Catch a Thief]
+
 
 '''
 
