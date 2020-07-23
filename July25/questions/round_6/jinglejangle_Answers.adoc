@@ -27,7 +27,7 @@ Name the company the following logos belong too:
 
 7 . *Atari*
 
-image:../../resources/atari-logo.png[]
+image:../../resources/atari.png[]
 
 8 . *World Wildlife Foundation*
 
