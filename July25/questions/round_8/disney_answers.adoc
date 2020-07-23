@@ -1,5 +1,7 @@
 = The Happiest Franchise on Earth - Answers
 
+=== General Questions
+
 1. How many years was the genie trapped in the lamp before Aladdin found him? *10,000*
 
 2. True or False, Mickey Mouse is the first cartoon character to get a star on the Hollywood Walk of Fame? *True*
@@ -21,8 +23,7 @@
 10. Who sang “I’ll Make a Man Out of You” in Mulan? *Donny Osmond*
 
 
-
-Match these Disney Pets/Sidekicks with their main character (1/2 point each):
+=== Match these Disney Pets/Sidekicks with their main character (1/2 point each):
 
  11. Iago - *E. Jafar*
  12. HeiHei - *J. Moana*
@@ -34,15 +35,4 @@ Match these Disney Pets/Sidekicks with their main character (1/2 point each):
  18. Meeko - *F. Pocahontas*
  19. Mushu - *H. Mulan*
  20. Diablo - *I. Maleficient*
-
-
-A. Jasmine
-B. Flynn Rider
-C. Lilo
-D. Mufasa
-E. Jafar
-F. Pocahontas
-G. Ursula
-H. Mulan
-I. Maleficient
-J. Moana
+ 
