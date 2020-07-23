@@ -1,0 +1,46 @@
+= Memes - Answers
+
+1
+
+image:../../resources/arthurfist.png[]
+
+2
+
+image:../../resources/butterfly-meme.png[]
+
+3
+
+image:../../resources/drake-meme.png[]
+
+4
+
+image:../../resources/evil kermit words.png[]
+
+5
+
+image:../../resources/fire-elmo.png[]
+
+6
+
+image:../../resources/not-sure-if.png[]
+
+7
+
+image:../../resources/pikachu.png[]
+
+8
+
+image:../../resources/success-kid-friday.png[]
+
+9
+
+image:../../resources/this-is-fine.png[]
+
+10
+
+image:../../resources/women-and-cat.png[]
+
+
+'''
+
+link:../../../index.html[Click here to return to the main site]

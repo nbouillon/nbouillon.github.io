@@ -1,0 +1,55 @@
+= Memes
+
+[example]
+====
+Do you know what's missing from these popular memes?
+
+Possible Points: 10
+====
+
+'''
+
+1
+
+image:../../resources/arthurfist-blank.png[]
+
+2
+
+image:../../resources/butterfly-meme-blank.png[]
+
+3
+
+image:../../resources/drake-meme-blank.png[]
+
+4
+
+image:../../resources/evil kermit words-blank.png[]
+
+5
+
+image:../../resources/fire-elmo-blank.png[]
+
+6
+
+image:../../resources/not-sure-if-blank.png[]
+
+7
+
+image:../../resources/pikachu-blank.png[]
+
+8
+
+image:../../resources/success-kid-friday-blank.png[]
+
+9
+
+image:../../resources/this-is-fine-blank.png[]
+
+10
+
+image:../../resources/women-and-cat-blank.png[]
+
+
+'''
+
+link:../../../index.html[Click here to return to the main site]
