@@ -9,8 +9,6 @@ Possible Points: 15
 
 '''
 
-=== General Questions
-
 1. How many years was the Genie trapped in the lamp before Aladdin found him?
 
 2. True or False, Mickey Mouse is the first cartoon character to get a star on the Hollywood Walk of Fame?
@@ -31,8 +29,9 @@ Possible Points: 15
 
 10. Who sang “I’ll Make a Man Out of You” in Mulan?
 
-
-=== Match these Disney Pets/Sidekicks with their Main Character (1/2 point each, they are not in the correct order):
++
+*Match these Disney Pets/Sidekicks with their main character (1/2 point each):*
++
 
 [%autowidth,stripes=even,]
 |===

@@ -1,13 +1,13 @@
 = Quarantine Trivia Week 6
 :basepath: May30/questions/round_
 
-=== Your Hosts: Bob and Bridget
+== Your Hosts: Bob and Bridget
 
-=== Possible Total Points: 100
+== Possible Total Points: 100
 
-=== Teams link:../teams/may30teams.html[Here]
+== Teams link:../teams/may30teams.html[Here]
 
-==== Categories:
+=== Categories:
 
 1. link:{basepath}1/CapitalIdeaMyBoy.html[Capital Idea. My Boy!]
 2. link:{basepath}2/Potpourri.html[Potpourri]

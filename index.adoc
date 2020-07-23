@@ -1,15 +1,15 @@
 = Quarantine Trivia Week 10
 :basepath: July25/questions/round_
 
-=== Your Hosts: Mitch, Catherine and Haylie
+== Your Hosts: Mitch, Catherine and Haylie
 
-=== Possible Total Points: 100
+== Possible Total Points: 93
 
-=== Teams link:../teams/july25teams.html[Here]
+== Teams link:../teams/july25teams.html[Here]
 
-==== Categories:
+=== Categories:
 
-1. link:{basepath}1/Whatsinaname.html[What's in a Name?]
+1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
 2. link:{basepath}2/CouchPotato.html[Couch Potato]
 3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
 4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
@@ -17,7 +17,7 @@
 6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
 7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
 8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
-9. link:{basepath}9/tocatchathief.html[To Catch a Thief]
+9. link:{basepath}9/whatsinaname.html[Who's That Lady]
 
 
 '''

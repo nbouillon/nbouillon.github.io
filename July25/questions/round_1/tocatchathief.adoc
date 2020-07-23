@@ -4,12 +4,14 @@
 ====
 No one is safe
 
-Possible Points: 10
+Possible Points: 12
 ====
 
 '''
 
-1. According to US News and World Reports, as of December 2019, what are 4 of the top 10 safest states in the US?
+1. WalletHub did a study in 2020 ranking the Safest States in the US. (From their site: _In order to determine the safest states in America, WalletHub compared the 50 states across 53 key safety indicators. Our data set ranges from the state’s coronavirus support to assaults per capita and the unemployment rate._) Using the Overall scores...
+    a. Name 3 of the top 10 safest states.
+    b. Name 3 of the worst 10 safest states.
 
 2. What crime is considered a violent disturbance of the peace by a crowd?
 

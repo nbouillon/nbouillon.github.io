@@ -1,17 +1,17 @@
 = Quarantine Trivia Week 3
 
-=== Your Hosts: Haylie and Mitch
+== Your Hosts: Haylie and Mitch
 
-=== Possible Total Points: 125
+== Possible Total Points: 125
 
-==== Before we begin, we request that each captain email Haylie with 2 things:
+=== Before we begin, we request that each captain email Haylie with 2 things:
 1. Your Team Name
 2. Your Vegas Round Choice
 
 *The Vegas Round* : Each team may pick one category from the list below before starting the game (except for rounds with an * those already have bonus points built in). For whichever category you pick you get to choose 5 questions in that round to "bet" on. If you get those questions right, you get 2 points, but if you get them wrong, you get -1. May the odds be in your favor. When that round comes along make sure your captain marks which questions you are choosing to use as your VR!
 
-=== Teams link:../teams/april25teams.adoc[Here]
-==== Categories:
+== Teams link:../teams/april25teams.adoc[Here]
+=== Categories:
 
 1. link:{basepath}1/WeWishYouAMerry.html[We Wish You a Merry…]
 2. link:{basepath}2/FlyThatFlag.html[Fly that Flag]

@@ -1,9 +1,9 @@
 = Lots of Stories
 
-==== Give the location of the following skyscrapers
-==== No country or city used twice
+== Give the location of the following skyscrapers
+== No country or city used twice
 
-==== Possible Points: 20 (1 point for city and country each)
+== Possible Points: 20 (1 point for city and country each)
 
 1. Burj Kjalifa 
 - City:
