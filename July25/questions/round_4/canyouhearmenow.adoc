@@ -2,23 +2,24 @@
 
 [example]
 ====
-Here is a list of commonly misheard song lyrics. Do you know the correct lyric?
+Here is a list of commonly misheard song lyrics. For a half point each, What's the correct *lyric*, *song*, and *artist*? 
 
-Possible Points: 10
+Possible Points: 15
 ====
 
 '''
 
 1. "It's gunna be May!"
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10.
+2. "Gotta love these Starbucks lovers."
+3. "Hold me closer, Tony Danza."
+4. "Welcome to the land of flaming sex."
+5. "Feel the beat from the tangerine.
+6. "We Built This City On Sausage Rolls"
+7. "Sweet dreams are made of cheese" 
+8. "Excuse me while I kiss this guy"
+9. "It doesn’t make a difference if we’re naked or not"
+10. "Then I saw her face, now I’m gonna leave her"
+
 
 '''
 
