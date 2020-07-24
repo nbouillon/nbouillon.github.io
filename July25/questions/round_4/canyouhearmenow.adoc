@@ -13,12 +13,12 @@ Possible Points: 15
 2. "Gotta love these Starbucks lovers."
 3. "Hold me closer, Tony Danza."
 4. "Welcome to the land of flaming sex."
-5. "Feel the beat from the tangerine.
-6. "We Built This City On Sausage Rolls"
-7. "Sweet dreams are made of cheese" 
-8. "Excuse me while I kiss this guy"
-9. "It doesn’t make a difference if we’re naked or not"
-10. "Then I saw her face, now I’m gonna leave her"
+5. "Feel the beat from the tangerine."
+6. "We Built This City On Sausage Rolls."
+7. "Sweet dreams are made of cheese." 
+8. "Excuse me while I kiss this guy."
+9. "It doesn’t make a difference if we’re naked or not."
+10. "Then I saw her face, now I’m gonna leave her."
 
 
 '''
