@@ -36,11 +36,11 @@ Name the company the following logos belong too:
 
 7 .
 
-image:../../resources/atari.png[]
+image:../../resources/atari.png[width=50%,align="center"]
 
 8 .
 
-image:../../resources/wwf-logo.jpg[]
+image:../../resources/wwf-logo.jpg[width=50%,align="center"]
 
 +++<br/>+++
 
@@ -48,13 +48,37 @@ What is being advertised in these video clips?:
 
 +++<br/>+++
 
-9 . 
-+++<br/>+++
-10 .
-+++<br/>+++
-11 .
-+++<br/>+++
-12 .
+.Question 9
+video::../../resources/videos/vid1.webm[width=50%,align="center"]
+.Alternate File for Question 1
+[%collapsible]
+====
+video::../../resources/videos/vid1.mp4[width=50%]
+====
+
+.Question 10
+video::../../resources/videos/vid1.webm[width=50%,align="center"]
+.Alternate File for Question 1
+[%collapsible]
+====
+video::../../resources/videos/vid1.mp4[width=50%]
+====
+
+.Question 11
+video::../../resources/videos/vid1.webm[width=50%,align="center"]
+.Alternate File for Question 1
+[%collapsible]
+====
+video::../../resources/videos/vid1.mp4[width=50%]
+====
+
+.Question 12
+video::../../resources/videos/vid1.webm[width=50%,align="center"]
+.Alternate File for Question 1
+[%collapsible]
+====
+video::../../resources/videos/vid1.mp4[width=50%]
+====
 
 
 '''
