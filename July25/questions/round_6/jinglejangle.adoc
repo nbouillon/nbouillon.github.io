@@ -50,34 +50,34 @@ What is being advertised in these video clips?:
 
 .Question 9
 video::../../resources/videos/vid1.webm[width=50%,align="center"]
-.Alternate File for Question 1
+.Alternate File for Question 9
 [%collapsible]
 ====
-video::../../resources/videos/vid1.mp4[width=50%]
+video::../../resources/videos/vid2.mp4[width=50%]
 ====
 
 .Question 10
-video::../../resources/videos/vid1.webm[width=50%,align="center"]
-.Alternate File for Question 1
+video::../../resources/videos/vid2.webm[width=50%,align="center"]
+.Alternate File for Question 10
 [%collapsible]
 ====
 video::../../resources/videos/vid1.mp4[width=50%]
 ====
 
 .Question 11
-video::../../resources/videos/vid1.webm[width=50%,align="center"]
-.Alternate File for Question 1
+video::../../resources/videos/vid3.webm[width=50%,align="center"]
+.Alternate File for Question 11
 [%collapsible]
 ====
-video::../../resources/videos/vid1.mp4[width=50%]
+video::../../resources/videos/vid3.mp4[width=50%]
 ====
 
 .Question 12
-video::../../resources/videos/vid1.webm[width=50%,align="center"]
-.Alternate File for Question 1
+video::../../resources/videos/vid4.webm[width=50%,align="center"]
+.Alternate File for Question 12
 [%collapsible]
 ====
-video::../../resources/videos/vid1.mp4[width=50%]
+video::../../resources/videos/vid4.mp4[width=50%]
 ====
 
 
