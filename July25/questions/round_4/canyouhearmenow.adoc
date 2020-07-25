@@ -2,11 +2,11 @@
 
 [example]
 ====
-Here is a list of commonly misheard song lyrics. For a half point each, What's the correct *lyric*, *song*, and *artist*? 
+Here is a list of commonly misheard song lyrics. For a half point each, What's the correct *lyric*, *song*, and *artist*? (1.5 total points availble per question)
 
 Possible Points: 15
 
-Time limit: 10 minutes
+Time limit: 15 minutes
 ====
 
 '''

@@ -1,8 +1,8 @@
-= Memes
+= The Internet is a Fad
 
 [example]
 ====
-Do you know what's missing from these popular memes?
+What's missing from these popular memes?
 
 Possible Points: 10
 

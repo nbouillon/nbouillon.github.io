@@ -2,7 +2,11 @@
 
 [example]
 ====
-Where are you when you are...
+Where are you when you are... 
+
+Example: On top of the Empire State Building = New York, New York, USA
+
+For places outside of the US we will accept just countries, for places in the US you need the state. We will not accept just continents!!
 
 Possible Points: 10
 
