@@ -36,13 +36,13 @@ Name the company the following logos belong too:
 
 +++<br/>+++
 
-7 .
+7 . 
 
-image:../../resources/atari.png[width=50%,align="center"]
+image::../../resources/atari.png[width=50%,align="center"]
 
 8 .
 
-image:../../resources/wwf-logo.jpg[width=50%,align="center"]
+image::../../resources/wwf-logo.jpg[width=50%,align="center"]
 
 +++<br/>+++
 

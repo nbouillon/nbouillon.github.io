@@ -3,33 +3,44 @@
 
 == Your Hosts: Mitch, Catherine and Haylie
 
-== Possible Total Points: 130
+=== Possible Total Points: 130
 
-== Teams link:../teams/july25teams.html[Here]
+=== Teams link:../teams/july25teams.html[Here]
 
 === Categories:
 
-1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
-2. link:{basepath}2/CouchPotato.html[Couch Potato]
-3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
-4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
-5. link:{basepath}5/Whereami.html[Where Am I]
-6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
-7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
-8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
-9. link:{basepath}9/Whatsinaname.html[Who's That Lady]
-10. link:{basepath}10/memes.html[The Internet is a fad]
+// 1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
+// 2. link:{basepath}2/CouchPotato.html[Couch Potato]
+// 3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
+// 4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
+// 5. link:{basepath}5/Whereami.html[Where Am I]
+// 6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
+// 7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
+// 8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
+// 9. link:{basepath}9/Whatsinaname.html[Who's That Lady]
+// 10. link:{basepath}10/memes.html[The Internet is a fad]
 
-
-'''
+1. To Catch a Thief
+2. Couch Potato
+3. English is the Greatest Language
+4. Can you hear me now?
+5. Where Am I
+6. Jingle Jangle
+7. She blinded me with Science
+8. The Happiest Franchise on Earth
+9. Who's That Lady
+10. The Internet is a fad
 
 == Teams & Scores
 
 [%autowidth,stripes=even,]
 |===
-| | Team 1 | Team 2 |Team 3 | Team 4
+| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6 | Team 7
 
 |Round 1
+|
+|
+|
 |
 |
 |
@@ -40,8 +51,14 @@
 |
 |
 |
+|
+|
+|
 
 | Round 3
+|
+|
+|
 |
 |
 |
@@ -52,8 +69,14 @@
 |
 |
 |
+|
+|
+|
 
 |Round 5
+|
+|
+|
 |
 |
 |
@@ -64,8 +87,14 @@
 |
 |
 |
+|
+|
+|
 
 |Round 7
+|
+|
+|
 |
 |
 |
@@ -76,14 +105,32 @@
 |
 |
 |
+|
+|
+|
 
 |Round 9
 |
 |
 |
 |
+|
+|
+|
 
-|Final
+|Round 10
+|
+|
+|
+|
+|
+|
+|
+
+|*Final*
+|
+|
+|
 |
 |
 |
