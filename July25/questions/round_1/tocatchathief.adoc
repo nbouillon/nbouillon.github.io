@@ -5,6 +5,7 @@
 No one is safe
 
 Possible Points: 12
+Time Limit: 10 minutes
 ====
 
 '''

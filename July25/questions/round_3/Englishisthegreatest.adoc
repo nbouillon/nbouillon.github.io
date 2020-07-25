@@ -7,6 +7,7 @@ Can you figure out the common English phrase or idiom when given the meaning. Ye
 Example: Completing two actions with one = Killing two birds with one stone
 
 Possible Points: 18
+Time Limit: 15 minutes
 ====
 
 '''

@@ -2,41 +2,61 @@
 
 1
 
+Arthur's Fist
+
 image:../../resources/arthurfist.png[]
 
 2
+
+A Butterfly
 
 image:../../resources/butterfly-meme.png[]
 
 3
 
+Drake
+
 image:../../resources/drake-meme.png[]
 
 4
+
+Kermit the Frog/Evil Kermit the Frog
 
 image:../../resources/evil kermit words.png[]
 
 5
 
+Elmo
+
 image:../../resources/fire-elmo.png[]
 
 6
+
+Fry from Futurama
 
 image:../../resources/not-sure-if.png[]
 
 7
 
+Pikachu/Surprised Pikachu
+
 image:../../resources/pikachu.png[]
 
 8
+
+Baby/Success kid
 
 image:../../resources/success-kid-friday.png[]
 
 9
 
+"This is Fine."
+
 image:../../resources/this-is-fine.png[]
 
 10
+
+A cat
 
 image:../../resources/women-and-cat.png[]
 

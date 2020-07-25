@@ -5,6 +5,7 @@
 How much TV do you actually watch though?
 
 Possible Points: 17
+Time Limit: 10 minutes
 ====
 
 '''
