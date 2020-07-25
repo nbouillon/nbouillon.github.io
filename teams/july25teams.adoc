@@ -2,13 +2,12 @@
 
 [%autowidth,stripes=even,]
 |===
-| Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6 | Team 7
+| Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6
 
 | Mary
 | Katie
 | Terry
 | Bob
-| Don
 | Bridget
 | Betsy
 
@@ -16,41 +15,50 @@
 | Adam
 | Bill
 | Linda
-| Sandy
 | Becky
-| And Friends
+| Ruperto
 
 | Mark
 | Brandon
 | Ann
 | Lee
-| Shannon
 | Noah
-| 
+| Angelica
 
 | Anna
 | Patty
 | Phil
 | Melanie
-| Igor
 | Mike
-| 
+| Bella
 
 | Bea
 | Tim 
 | Maureen
 | Colin
-| Ryan
 | Vickie
-|
+| Rhiannon
 
 | Brianna
 | 
 | Maria
 | 
-|
 | Hayes
+| Anders
+
 |
+|
+|
+|
+|
+|Jackie
+
+|
+|
+|
+|
+|
+|Nevin
 |===
 
 '''
