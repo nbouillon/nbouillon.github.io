@@ -5,11 +5,10 @@
 
 === Possible Total Points: 130
 
-=== Teams link:../teams/july25teams.html[Here]
+=== Teams link:./teams/july25teams.html[Here]
 
 === Categories:
 
-// 3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
 // 4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
 // 5. link:{basepath}5/Whereami.html[Where Am I]
 // 6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
@@ -22,7 +21,8 @@
 1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
     a. link:{basepath}1/tocatchathief_Answers.html[answers]
 2. link:{basepath}2/CouchPotato.html[Couch Potato]
-3. English is the Greatest Language
+    a. link:{basepath}2/CouchPotato_Answers.html[answers]
+3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
 4. Can you hear me now?
 5. Where Am I
 6. Jingle Jangle
@@ -35,19 +35,17 @@
 
 [%autowidth,stripes=even,]
 |===
-| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6 | Team 7
+| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6
 
 |Round 1
-|
-|
-|
-|
-|
-|
-|
+| 7
+| 4
+| 6
+| 6
+| 5
+| 4
 
 |Round 2   
-|
 |
 |
 |
@@ -62,10 +60,8 @@
 |
 |
 |
-|
 
 |Round 4
-|
 |
 |
 |
@@ -80,10 +76,8 @@
 |
 |
 |
-|
 
 |Round 6
-|
 |
 |
 |
@@ -98,10 +92,8 @@
 |
 |
 |
-|
 
 |Round 8
-|
 |
 |
 |
@@ -116,7 +108,6 @@
 |
 |
 |
-|
 
 |Round 10
 |
@@ -125,17 +116,14 @@
 |
 |
 |
-|
 
 |*Final*
-|
-|
-|
-|
-|
-|
-|
-
+| 7
+| 4
+| 6
+| 6
+| 5
+| 4
 |===
 
 '''
