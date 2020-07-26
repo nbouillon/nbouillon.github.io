@@ -12,13 +12,13 @@ Time Limit: 10 minutes
 '''
 
 1. Herpetology is the study of what?
-2. What's the rarest blood type?
+2. What's the rarest blood type in the US?
 3. What is the largest known land animal? Bonus: What's the largest known animal?
 4. Animals that eat both plants and meat are called what?
 5. Where can you find the smallest bone in the human body?
 6. What is the only mammal capable of flying?
 7. What are electrically charged atoms called?
-8. Who is the father of science?
+8. Who is considered to be the father of modern science?
 9. A scientist who studies the history of life on Earth through the fossil record is called a...? 
 10. Finish Newton's third law of motion, "For every action, ____"?
 

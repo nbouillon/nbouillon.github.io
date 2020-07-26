@@ -15,7 +15,7 @@ Time Limit: 15 minutes
 
 2. True or False, Mickey Mouse is the first cartoon character to get a star on the Hollywood Walk of Fame?
 
-3. What is the second movie that was created by the Disney/Pixar partnership?
+3. What is the *second* movie that was created by the Disney/Pixar partnership?
 
 4. What's the name of Andy's neighbor in Toy Story?
 
