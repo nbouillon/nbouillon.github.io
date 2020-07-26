@@ -9,7 +9,6 @@
 
 === Categories:
 
-// 4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
 // 5. link:{basepath}5/Whereami.html[Where Am I]
 // 6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
 // 7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
@@ -23,7 +22,8 @@
 2. link:{basepath}2/CouchPotato.html[Couch Potato]
     a. link:{basepath}2/CouchPotato_Answers.html[answers]
 3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
-4. Can you hear me now?
+    a. link:{basepath}3/Englishisthegreatest_Answers.html[answers]
+4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
 5. Where Am I
 6. Jingle Jangle
 7. She blinded me with Science
@@ -46,12 +46,12 @@
 | 4
 
 |Round 2   
-|
-|
-|
-|
-|
-|
+| 10
+| 14
+| 12
+| 9
+| 10
+| 13
 
 | Round 3
 |
@@ -118,12 +118,12 @@
 |
 
 |*Final*
-| 7
-| 4
-| 6
-| 6
-| 5
-| 4
+| 17
+| 18
+| 18
+| 15
+| 15
+| 17
 |===
 
 '''
