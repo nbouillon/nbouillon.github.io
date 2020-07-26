@@ -9,7 +9,6 @@
 
 === Categories:
 
-// 5. link:{basepath}5/Whereami.html[Where Am I]
 // 6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
 // 7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
 // 8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
@@ -23,7 +22,8 @@
 3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
     a. link:{basepath}3/Englishisthegreatest_Answers.html[answers]
 4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
-5. Where Am I
+    a. link:{basepath}4/canyouhearmenow_Answers.html[answers]
+5. link:{basepath}5/Whereami.html[Where Am I]
 6. Jingle Jangle
 7. She blinded me with Science
 8. The Happiest Franchise on Earth
@@ -53,12 +53,12 @@
 | 13
 
 | Round 3
-|
-|
-|
-|
-|
-|
+| 17
+| 14
+| 17
+| 17
+| 16
+| 16
 
 |Round 4
 |
@@ -117,12 +117,12 @@
 |
 
 |*Final*
-| 17
-| 18
-| 18
-| 15
-| 15
-| 17
+| 34
+| 32
+| 35
+| 32
+| 31
+| 33
 |===
 
 '''
