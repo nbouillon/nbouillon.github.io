@@ -9,7 +9,6 @@
 
 === Categories:
 
-// 7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
 // 8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
 // 9. link:{basepath}9/Whatsinaname.html[Who's That Lady]
 // 10. link:{basepath}10/memes.html[The Internet is a fad]
@@ -25,7 +24,8 @@
 5. link:{basepath}5/Whereami.html[Where Am I]
     a. link:{basepath}5/Whereami_Answers.html[answers]
 6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
-7. She blinded me with Science
+    a. link:{basepath}6/jinglejangle_Answers.html[answers]
+7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
 8. The Happiest Franchise on Earth
 9. Who's That Lady
 10. The Internet is a fad
@@ -69,12 +69,12 @@
 | 11
 
 |Round 5
-|
-|
-|
-|
-|
-|
+| 7
+| 7
+| 6
+| 7
+| 7
+| 7
 
 |Round 6
 |
@@ -117,12 +117,12 @@
 |
 
 |*Final*
-| 48
-| 44
-| 44
-| 44.5
-| 43.5
-| 44
+| 55
+| 51
+| 50
+| 51.5
+| 50.5
+| 51
 |===
 
 '''
