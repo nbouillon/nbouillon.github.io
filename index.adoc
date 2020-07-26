@@ -9,7 +9,6 @@
 
 === Categories:
 
-// 10. link:{basepath}10/memes.html[The Internet is a fad]
 
 1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
     a. link:{basepath}1/tocatchathief_Answers.html[answers]
@@ -28,7 +27,8 @@
 8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
     a. link:{basepath}8/disney_answers.html[answers]
 9. link:{basepath}9/Whatsinaname.html[Who's That Lady]
-10. The Internet is a fad
+    a. link:{basepath}9/Whatsinaname_Answers.html[answers]
+10. link:{basepath}10/memes.html[The Internet is a fad]
 
 == Teams & Scores
 
@@ -93,12 +93,12 @@
 | 9
 
 |Round 8
-|
-|
-|
-|
-|
-|
+| 12
+| 15
+| 13
+| 13
+| 12
+| 15
 
 |Round 9
 |
@@ -117,12 +117,12 @@
 |
 
 |*Final*
-| 73
-| 69
-| 65
-| 69.5
-| 67.5
-| 68
+| 85
+| 84
+| 78
+| 82.5
+| 79.5
+| 83
 |===
 
 '''
