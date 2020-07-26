@@ -9,7 +9,6 @@
 
 === Categories:
 
-// 2. link:{basepath}2/CouchPotato.html[Couch Potato]
 // 3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
 // 4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
 // 5. link:{basepath}5/Whereami.html[Where Am I]
@@ -21,7 +20,8 @@
 
 //1. To Catch a Thief
 1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
-2. Couch Potato
+    a. link:{basepath}1/tocatchathief_Answers.html[answers]
+2. link:{basepath}2/CouchPotato.html[Couch Potato]
 3. English is the Greatest Language
 4. Can you hear me now?
 5. Where Am I
