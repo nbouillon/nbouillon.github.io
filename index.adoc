@@ -16,7 +16,6 @@
 // 9. link:{basepath}9/Whatsinaname.html[Who's That Lady]
 // 10. link:{basepath}10/memes.html[The Internet is a fad]
 
-//1. To Catch a Thief
 1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
     a. link:{basepath}1/tocatchathief_Answers.html[answers]
 2. link:{basepath}2/CouchPotato.html[Couch Potato]
