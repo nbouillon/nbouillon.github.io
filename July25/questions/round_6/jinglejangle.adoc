@@ -55,7 +55,7 @@ video::../../resources/videos/vid1.webm[width=50%,align="center"]
 .Alternate File for Question 9
 [%collapsible]
 ====
-video::../../resources/videos/vid2.mp4[width=50%]
+video::../../resources/videos/vid1.mp4[width=50%]
 ====
 
 .Question 10
@@ -63,7 +63,7 @@ video::../../resources/videos/vid2.webm[width=50%,align="center"]
 .Alternate File for Question 10
 [%collapsible]
 ====
-video::../../resources/videos/vid1.mp4[width=50%]
+video::../../resources/videos/vid2.mp4[width=50%]
 ====
 
 .Question 11

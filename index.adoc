@@ -9,7 +9,6 @@
 
 === Categories:
 
-// 6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
 // 7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
 // 8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
 // 9. link:{basepath}9/Whatsinaname.html[Who's That Lady]
@@ -24,7 +23,8 @@
 4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
     a. link:{basepath}4/canyouhearmenow_Answers.html[answers]
 5. link:{basepath}5/Whereami.html[Where Am I]
-6. Jingle Jangle
+    a. link:{basepath}5/Whereami_Answers.html[answers]
+6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
 7. She blinded me with Science
 8. The Happiest Franchise on Earth
 9. Who's That Lady
@@ -61,12 +61,12 @@
 | 16
 
 |Round 4
-|
-|
-|
-|
-|
-|
+| 14
+| 12
+| 9
+| 12.5
+| 12.5
+| 11
 
 |Round 5
 |
@@ -117,12 +117,12 @@
 |
 
 |*Final*
-| 34
-| 32
-| 35
-| 32
-| 31
-| 33
+| 48
+| 44
+| 44
+| 44.5
+| 43.5
+| 44
 |===
 
 '''
