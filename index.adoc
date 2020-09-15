@@ -1,25 +1,23 @@
 = Quarantine Trivia Week ?
-:basepath: July25/questions/round_
+:basepath: Sept26/questions/round
 
 == Your Hosts: Becky & Noah!
 
 === Possible Total Points: ?
 
-=== Teams link:./teams/july25teams.html[Here]
+=== Teams link:./teams/sept26teams.html[Here]
 
 === Categories:
 
 
-1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
-2. link:{basepath}2/CouchPotato.html[Couch Potato]
-3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
-4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
-5. link:{basepath}5/Whereami.html[Where Am I]
-6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
-7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
-8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
-9. link:{basepath}9/Whatsinaname.html[Who's That Lady]
-10. link:{basepath}10/memes.html[The Internet is a fad]
+1. link:{basepath}1/testround1.html[Test Round]
+2. TBD
+3. TBD
+4. Halftime Picture Round - Pictures of Stuff
+5. TBD
+6. TBD
+7. TBD
+8. TBD
 
 == Teams & Scores
 
