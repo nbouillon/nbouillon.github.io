@@ -1,9 +1,9 @@
-= Quarantine Trivia Week 10
+= Quarantine Trivia Week ?
 :basepath: July25/questions/round_
 
-== Your Hosts: Mitch, Catherine and Haylie
+== Your Hosts: Becky & Noah!
 
-=== Possible Total Points: 130
+=== Possible Total Points: ?
 
 === Teams link:./teams/july25teams.html[Here]
 
@@ -11,25 +11,15 @@
 
 
 1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
-    a. link:{basepath}1/tocatchathief_Answers.html[answers]
 2. link:{basepath}2/CouchPotato.html[Couch Potato]
-    a. link:{basepath}2/CouchPotato_Answers.html[answers]
 3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
-    a. link:{basepath}3/Englishisthegreatest_Answers.html[answers]
 4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
-    a. link:{basepath}4/canyouhearmenow_Answers.html[answers]
 5. link:{basepath}5/Whereami.html[Where Am I]
-    a. link:{basepath}5/Whereami_Answers.html[answers]
 6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
-    a. link:{basepath}6/jinglejangle_Answers.html[answers]
 7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
-    a. link:{basepath}7/SCIENCE_Answers.html[answers]
 8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
-    a. link:{basepath}8/disney_answers.html[answers]
 9. link:{basepath}9/Whatsinaname.html[Who's That Lady]
-    a. link:{basepath}9/Whatsinaname_Answers.html[answers]
 10. link:{basepath}10/memes.html[The Internet is a fad]
-    a. link:{basepath}10/memes_Answers.html[answers]
 
 == Teams & Scores
 
@@ -38,92 +28,92 @@
 | | Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6
 
 |Round 1
-| 7
-| 4
-| 6
-| 6
-| 5
-| 4
+| 
+| 
+| 
+| 
+| 
+| 
 
 |Round 2   
-| 10
-| 14
-| 12
-| 9
-| 10
-| 13
+|
+| 
+| 
+| 
+| 
+| 
 
 | Round 3
-| 17
-| 14
-| 17
-| 17
-| 16
-| 16
+| 
+| 
+| 
+| 
+| 
+| 
 
 |Round 4
-| 14
-| 12
-| 9
-| 12.5
-| 12.5
-| 11
+| 
+| 
+| 
+| 
+| 
+| 
 
 |Round 5
-| 7
-| 7
-| 6
-| 7
-| 7
-| 7
+| 
+| 
+| 
+| 
+| 
+| 
 
 |Round 6
-| 10
-| 11
-| 8
-| 9
-| 7
-| 8
+| 
+| 
+| 
+| 
+| 
+| 
 
 |Round 7
-| 8
-| 7
-| 7
-| 9
-| 10
-| 9
+| 
+| 
+| 
+| 
+| 
+| 
 
 |Round 8
-| 12
-| 15
-| 13
-| 12
-| 12
-| 15
+| 
+| 
+| 
+| 
+| 
+| 
 
 |Round 9
-| 9
-| 7
-| 8
-| 8
-| 7
-| 8
+| 
+| 
+| 
+| 
+| 
+| 
 
 |Round 10
-| 9
-| 10
-| 7
-| 6
-| 9
-| 10
+| 
+| 
+| 
+| 
+| 
+| 
 
 |*Final*
-| 103
-| 101
-| 93
-| 95.5
-| 95.5
-| 101
+| 
+| 
+| 
+| 
+| 
+| 
 |===
 
 '''
