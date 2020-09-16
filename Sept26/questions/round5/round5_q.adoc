@@ -1,0 +1,35 @@
+= Round 5 - Parks and Recreation 
+
+====
+Answer the following questions about National Parks and Recreational activities
+
+Possible Points: 10
+
+Time Limit: 12 minutes
+====
+
+'''
+
+1. Home to thousands of lions and sharing its name with the very ecosystem it exists within, what national park can be found in northern Tanzania?
+
+2. Named after a fortified city in France, what tile-laying board game allows players to claim roads and cities as they build the map?
+
+3. According to alltrails.com, the #1 hike in the US is Angel’s Landing.  What national park can this trail be found in?
+
+4. While a Manhattan and an Old Fashioned are both mixed using whiskey and bitters, which one traditionally uses sugar as a sweetener instead of sweet vermouth?
+
+5. While it’s not a “National Park”, which CA “National Recreation Area” received the most visitors in 2019 of all sites operated by the National Park Service (including national parks!)?
+
+6. How many US states have fully legalized recreational marijuana? (full credit if you are within 1 either way)
+
+7. What was Canada’s first national park, a popular ski destination located in the Canadian Rockies of Alberta?
+
+8. Forget the brooms and stones, in 2017, Russians held a tournament where teams of 10 pushed what down the ice instead?
+
+9. What is the only US national park that borders Mexico?
+
+10. Designed primarily to be watched on mobile devices, what streaming service launched in April to lackluster reviews?
+
+'''
+
+link:../../../index.html[Click here to return to the main site]

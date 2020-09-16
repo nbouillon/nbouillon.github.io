@@ -5,35 +5,34 @@
 
 === Possible Total Points: ?
 
-=== Teams link:./teams/sept26teams.html[Here]
-
 === Categories:
 
-
-1. link:{basepath}1/testround1.html[Test Round]
-2. TBD
+1. link:{basepath}1/round1_q.html[Dolla Dolla Bill Ya'll]
+2. link:{basepath}2/round2_q.html[The High Seas]
 3. TBD
-4. Halftime Picture Round - Pictures of Stuff
-5. TBD
-6. TBD
-7. TBD
+4. link:{basepath}4/testround4.html[I'm Turning Japanese] (Halftime Picture Round)
+5. link:{basepath}5/round5_q.html[Parks & Rec]
+6. link:{basepath}6/round6_q.html[Mystery Round]
+7. link:{basepath}7/round7_q.html[The Sound of Silence]
 8. Final Round - TBD
 
 == Teams & Scores
 
+=== See Who is on Each Team link:./teams/sept26teams.html[Here]
+
 [%autowidth,stripes=even,]
 |===
-|            | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6
+|            | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Max Score
 
-|Round 1     | 1      | 2      | 3      | 4      |5       |6      
-|Round 2     |        |        |        |        |        |       
-|Round 3     |        |        |        |        |        |       
-|Round 4     |        |        |        |        |        |       
-|Round 5     |        |        |        |        |        |       
-|Round 6     |        |        |        |        |        |       
-|Round 7     |        |        |        |        |        |       
-|Final Round |        |        |        |        |        |       
-|*Total*     |1       |        |        |        |        |       
+|Round 1     | 1      | 2      | 3      | 4      |5       |10     
+|Round 2     | 2      |        |        |        |        |10     
+|Round 3     |        |        |        |        |        |?     
+|Round 4     |        |        |        |        |        |14      
+|Round 5     |        |        |        |        |        |10     
+|Round 6     |        |        |        |        |        |12     
+|Round 7     |        |        |        |        |        |13     
+|Final Round |        |        |        |        |        |?     
+|*Total*     |3       |        |        |        |        |?      
 |===
 
 '''

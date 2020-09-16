@@ -1,0 +1,53 @@
+= Round 7 - The Sound of Silence 
+
+====
+Answer these questions about music, each section has more details
+
+Possible Points: 13
+
+Time Limit: 15 minutes
+====
+
+'''
+
+  Based on the vague description of a song, provide the real name of the song and the artist for half a point each
+
+1.	That Teenage Wasteland song
+    a.	Real Song Title:
+    b.	Artist:
+2.	That Pina Colada Song
+    a.	Real Song Title:
+    b.	Artist: 
+3.	That Everybody Dance Now song 
+    a.	Real Song Title:
+    b.	Artist: 
+4.	That song about Ground Control and Major Tom 
+    a.	Real Song Title:
+    b.	Artist: 
+
+  For the following songs, provide the YEAR that they were first released for 1 point each (+/- 2 years)
+
+5.	December 1963 (Oh, What a Night) – The Four Seasons
+6.	Summer ’68 – Pink Floyd
+7.	Summer of ’69 – Bryan Adams
+8.	1985 – Bowling for Soup
+9.	1999 – Prince
+
+  For the final 4 questions, provide the 4 people referred to by NAME in Billy Joel’s song, Piano Man, and their PROFESSION (half a point each, order doesn’t matter)
+
+10.	Person 1
+    a.	Name:
+    b.	Profession:
+11.	Person 2
+    a.	Name:
+    b.	Profession:
+12.	Person 3
+    a.	Name:
+    b.	Profession:
+13.	Person 4
+    a.	Name:
+    b.	Profession:
+
+'''
+
+link:../../../index.html[Click here to return to the main site]

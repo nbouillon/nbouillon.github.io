@@ -1,0 +1,36 @@
+= Round 6 - Mystery Round 
+
+====
+The answers to the first 9 questions have something in common.
+Question 10 is identifying that shared theme.
+
+Possible Points: 12
+
+Time Limit: 15 minutes
+====
+
+'''
+
+1.	Known for her many contributions to the field of radioactivity, this chemist was the first woman to win a Nobel Prize
+
+2.	This Marvel superhero wields Mjolnir in his first movie to take on the Frost Giants and his conniving brother
+
+3.	Of the colors of the rainbow, this one has the 2nd-shortest wavelength
+
+4.	In addition to being one of the five permanent members of the UN Security Council, this country is a popular tourist destination known for its wine and the Arc de Triomphe
+
+5.	As the Greek God Hermes’ Roman equivalent, this god of messages, communication, and more also shares his name with a planet
+
+6.	As the oldest member of the UC System (and second largest enrollment behind UCLA), what city is home to this Golden Bears campus?
+
+7.	Taking place in the Alien universe, this 2012 Ridley Scott sci-fi film follows a space crew traveling on the title ship seeking the origins of humanity
+
+8.	Popular for its exports of whiskey and country music, which state is also known as The Volunteer State?
+
+9.	Originating on Superman’s home planet, this fictional material has become synonymous with any exploitable weakness
+
+10.	What do the previous 9 answers have in common (3 points)?
+
+'''
+
+link:../../../index.html[Click here to return to the main site]
