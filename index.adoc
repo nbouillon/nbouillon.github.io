@@ -1,4 +1,4 @@
-= Quarantine Trivia Week ?
+= Quarantine Trivia Week 14
 :basepath: Sept26/questions/round
 
 == Your Hosts: Becky & Noah!
@@ -17,85 +17,23 @@
 5. TBD
 6. TBD
 7. TBD
-8. TBD
+8. Final Round - TBD
 
 == Teams & Scores
 
 [%autowidth,stripes=even,]
 |===
-| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6
+|            | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6
 
-|Round 1
-| 
-| 
-| 
-| 
-| 
-| 
-
-|Round 2   
-|
-| 
-| 
-| 
-| 
-| 
-
-|Round 3
-| 
-| 
-| 
-| 
-| 
-| 
-
-|Round 4
-| 
-| 
-| 
-| 
-| 
-| 
-
-|Round 5
-| 
-| 
-| 
-| 
-| 
-| 
-
-|Round 6
-| 
-| 
-| 
-| 
-| 
-| 
-
-|Round 7
-| 
-| 
-| 
-| 
-| 
-| 
-
-|Final Round
-| 
-| 
-| 
-| 
-| 
-| 
-
-|*Total*
-| 
-| 
-| 
-| 
-| 
-| 
+|Round 1     | 1      | 2      | 3      | 4      |5       |6      
+|Round 2     |        |        |        |        |        |       
+|Round 3     |        |        |        |        |        |       
+|Round 4     |        |        |        |        |        |       
+|Round 5     |        |        |        |        |        |       
+|Round 6     |        |        |        |        |        |       
+|Round 7     |        |        |        |        |        |       
+|Final Round |        |        |        |        |        |       
+|*Total*     |1       |        |        |        |        |       
 |===
 
 '''
