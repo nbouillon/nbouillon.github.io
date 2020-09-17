@@ -1,0 +1,27 @@
+= Final Round - Munchies
+
+====
+The following question has 8 possible answers and you can submit up to 8 answers. You will be awarded +2 points for each correct answer and -1 for each incorrect answer. Leaving any of the 8 answers blank will be worth 0 points.
+
+*Each Correct Answer:* +2
+
+*Each Incorrect Answer:* -1
+
+*Each Blank Answer:* 0
+
+Possible Points: 16
+
+Time Limit: 15 minutes
+====
+
+'''
+
+In the original Pac-Man and Ms. Pac-Man arcade games, there are several items that appear and can be consumed for bonus points.
+
+*Between the two games, name the 8 that would be considered edible by human standards*
+
+(The dots, ghosts, galaxian boss, bell, and key would not be considered edible)
+
+'''
+
+link:../../../index.html[Click here to return to the main site]

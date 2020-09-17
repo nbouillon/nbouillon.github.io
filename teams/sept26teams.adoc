@@ -3,7 +3,7 @@
 [%autowidth,stripes=even,]
 |===
 | Team 1   | Team 2   | Team 3   | Team 4   | Team 5
-| person   | dude     | yyep     | testing  | 
+| To       | Be       | Determined| Ya'll   | 
 |          |          |          |          | 
 |          |          |          |          | 
 |          |          |          |          | 
