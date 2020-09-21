@@ -3,18 +3,19 @@
 
 == Your Hosts: Becky & Noah!
 
-=== Possible Total Points: ?
+=== Possible Total Points: 95
 
 === Categories:
 
-1. TBD
-2. TBD
-3. TBD
-4. TBD
-5. TBD
-6. TBD
-7. TBD
-8. Final Round - TBD
+
+1. Dolla Dolla Bill Ya'll
+2. The High Seas
+3. Love Trapezoid
+4. I'm Turning Japanese (Halftime Picture Round)
+5. Parks & Rec
+6. Mystery Round
+7. Play Me a Memory
+8. Final Round - Munchies
 
 == Teams & Scores
 
@@ -24,15 +25,15 @@
 |===
 |            | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Max Score
 
-|Round 1     | 1      | 2      | 3      | 4      |5       |10     
-|Round 2     | 2      |        |        |        |        |10     
+|Round 1     |        |        |        |        |        |10     
+|Round 2     |        |        |        |        |        |10     
 |Round 3     |        |        |        |        |        |10   
 |Round 4     |        |        |        |        |        |14      
 |Round 5     |        |        |        |        |        |10     
 |Round 6     |        |        |        |        |        |12     
 |Round 7     |        |        |        |        |        |13     
 |Final Round |        |        |        |        |        |16     
-|*Total*     |3       |        |        |        |        |95      
+|*Total*     |        |        |        |        |        |95      
 |===
 
 '''
