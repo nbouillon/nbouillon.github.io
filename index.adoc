@@ -15,7 +15,8 @@
 5. link:{basepath}5/round5_q.html[Parks & Rec]
 6. link:{basepath}6/round6_q.html[Mystery Round]
 7. link:{basepath}7/round7_q.html[Play Me a Memory]
-8. Final Round - Munchies
+8. link:{basepath}8/round8_q.html[Final Round - Munchies]
+
 
 == Teams & Scores
 
