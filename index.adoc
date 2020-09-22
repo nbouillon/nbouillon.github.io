@@ -7,16 +7,14 @@
 
 === Categories:
 
-
-1. link:{basepath}1/round1_q.html[Dolla Dolla Bill Ya'll]
-2. link:{basepath}2/round2_q.html[The High Seas]
-3. link:{basepath}3/round3_q.html[Love Trapezoid]
-4. link:{basepath}4/round4_q.html[I'm Turning Japanese] (Halftime Picture Round)
-5. link:{basepath}5/round5_q.html[Parks & Rec]
-6. link:{basepath}6/round6_q.html[Mystery Round]
-7. link:{basepath}7/round7_q.html[Play Me a Memory]
-8. link:{basepath}8/round8_q.html[Final Round - Munchies]
-
+1. TBD
+2. TBD
+3. TBD
+4. TBD
+5. TBD
+6. TBD
+7. TBD
+8. TBD
 
 == Teams & Scores
 
@@ -26,15 +24,15 @@
 |===
 |            | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Max Score
 
-|Round 1     |6       |        |        |        |        |10     
-|Round 2     |6       |        |        |        |        |10     
-|Round 3     |5       |        |        |        |        |10   
-|Round 4     |12      |        |        |        |        |14      
-|Round 5     |6       |        |        |        |        |10     
-|Round 6     |8       |        |        |        |        |12     
-|Round 7     |3       |        |        |        |        |13     
-|Final Round |13      |        |        |        |        |16     
-|*Total*     |59      |        |        |        |        |95      
+|Round 1     |        |        |        |        |        |10     
+|Round 2     |        |        |        |        |        |10     
+|Round 3     |        |        |        |        |        |10   
+|Round 4     |        |        |        |        |        |14      
+|Round 5     |        |        |        |        |        |10     
+|Round 6     |        |        |        |        |        |12     
+|Round 7     |        |        |        |        |        |13     
+|Final Round |        |        |        |        |        |16     
+|*Total*     |        |        |        |        |        |95      
 |===
 
 '''
