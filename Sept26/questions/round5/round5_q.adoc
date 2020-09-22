@@ -5,7 +5,7 @@ Answer the following questions about National Parks and Recreational activities
 
 Possible Points: 10
 
-Time Limit: 12 minutes
+Time Limit: 15 minutes
 ====
 
 '''

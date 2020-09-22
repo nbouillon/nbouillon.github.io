@@ -11,7 +11,7 @@ The following question has 8 possible answers and you can submit up to 8 answers
 
 Possible Points: 16
 
-Time Limit: 15 minutes
+Time Limit: 10 minutes
 ====
 
 '''
