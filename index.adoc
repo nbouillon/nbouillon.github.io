@@ -10,7 +10,7 @@
 
 1. link:{basepath}1/round1_q.html[Dolla Dolla Bill Ya'll]
 2. link:{basepath}2/round2_q.html[The High Seas]
-3. Love Trapezoid
+3. link:{basepath}3/round3_q.html[Love Trapezoid]
 4. I'm Turning Japanese (Halftime Picture Round)
 5. Parks & Rec
 6. Mystery Round
@@ -25,7 +25,7 @@
 |===
 |            | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Max Score
 
-|Round 1     |        |        |        |        |        |10     
+|Round 1     |6       |        |        |        |        |10     
 |Round 2     |        |        |        |        |        |10     
 |Round 3     |        |        |        |        |        |10   
 |Round 4     |        |        |        |        |        |14      
@@ -33,7 +33,7 @@
 |Round 6     |        |        |        |        |        |12     
 |Round 7     |        |        |        |        |        |13     
 |Final Round |        |        |        |        |        |16     
-|*Total*     |        |        |        |        |        |95      
+|*Total*     |6       |        |        |        |        |95      
 |===
 
 '''
