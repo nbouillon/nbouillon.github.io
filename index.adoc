@@ -13,7 +13,7 @@
 3. link:{basepath}3/round3_q.html[Love Trapezoid]
 4. link:{basepath}4/round4_q.html[I'm Turning Japanese] (Halftime Picture Round)
 5. link:{basepath}5/round5_q.html[Parks & Rec]
-6. Mystery Round
+6. link:{basepath}6/round6_q.html[Mystery Round]
 7. Play Me a Memory
 8. Final Round - Munchies
 
@@ -28,12 +28,12 @@
 |Round 1     |6       |        |        |        |        |10     
 |Round 2     |6       |        |        |        |        |10     
 |Round 3     |5       |        |        |        |        |10   
-|Round 4     |        |        |        |        |        |14      
+|Round 4     |12      |        |        |        |        |14      
 |Round 5     |        |        |        |        |        |10     
 |Round 6     |        |        |        |        |        |12     
 |Round 7     |        |        |        |        |        |13     
 |Final Round |        |        |        |        |        |16     
-|*Total*     |17      |        |        |        |        |95      
+|*Total*     |29      |        |        |        |        |95      
 |===
 
 '''
