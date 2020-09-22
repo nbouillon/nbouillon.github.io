@@ -8,7 +8,7 @@
 === Categories:
 
 
-1. Dolla Dolla Bill Ya'll
+1. link:{basepath}1/round1_q.html[Dolla Dolla Bill Ya'll]
 2. The High Seas
 3. Love Trapezoid
 4. I'm Turning Japanese (Halftime Picture Round)
