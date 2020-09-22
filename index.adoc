@@ -9,7 +9,7 @@
 
 
 1. link:{basepath}1/round1_q.html[Dolla Dolla Bill Ya'll]
-2. The High Seas
+2. link:{basepath}2/round2_q.html[The High Seas]
 3. Love Trapezoid
 4. I'm Turning Japanese (Halftime Picture Round)
 5. Parks & Rec
