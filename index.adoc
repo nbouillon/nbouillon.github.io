@@ -22,17 +22,17 @@
 
 [%autowidth,stripes=even,]
 |===
-|            | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Max Score
+|            | Team 1 | Team 2 | Team 3 | Team 4 | Max Score
 
-|Round 1     |        |        |        |        |        |10     
-|Round 2     |        |        |        |        |        |10     
-|Round 3     |        |        |        |        |        |10   
-|Round 4     |        |        |        |        |        |14      
-|Round 5     |        |        |        |        |        |10     
-|Round 6     |        |        |        |        |        |12     
-|Round 7     |        |        |        |        |        |13     
-|Final Round |        |        |        |        |        |16     
-|*Total*     |        |        |        |        |        |95      
+|Round 1     |        |        |        |        |10     
+|Round 2     |        |        |        |        |10     
+|Round 3     |        |        |        |        |10   
+|Round 4     |        |        |        |        |14      
+|Round 5     |        |        |        |        |10     
+|Round 6     |        |        |        |        |12     
+|Round 7     |        |        |        |        |13     
+|Final Round |        |        |        |        |16     
+|*Total*     |        |        |        |        |95      
 |===
 
 '''
