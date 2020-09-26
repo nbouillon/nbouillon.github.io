@@ -7,7 +7,7 @@
 | Jeannie    | Bob      | Billy    | Katie    
 | Mary       | Haylie   | Maria    | Brandon  
 | Mike       | Mitch    | Maureen  | Patty    
-| Vickie     |          | Terry    | Tim      
+| Vickie     | Betsy    | Terry    | Tim      
 |===
 
 '''
