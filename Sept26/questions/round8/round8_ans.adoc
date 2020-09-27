@@ -1,0 +1,27 @@
+= Final Round Answers - Munchies
+
+====
+Answers
+====
+
+'''
+
+In the original Pac-Man and Ms. Pac-Man arcade games, there are several items that appear and can be consumed for bonus points.
+
+*Between the two games, name the 8 that would be considered edible by human standards*
+
+(The dots, ghosts, galaxian boss, bell, and key would not be considered edible)
+
+1. *Cherry* (Both games)
+2. *Strawberry* (Both games)
+3. *Orange* (Both games)
+4. *Apple* (Both games)
+5. *Melon/Watermelon* (Only Pac-Man)
+6. *Pretzel* (Only Ms. Pac-Man)
+7. *Pear* (Only Ms. Pac-Man)
+8. *Banana* (Only Ms. Pac-Man)
+
+
+'''
+
+link:../../../index.html[Click here to return to the main site]
