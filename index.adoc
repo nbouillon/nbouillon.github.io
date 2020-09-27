@@ -10,7 +10,8 @@
 1. link:{basepath}1/round1_q.html[Dolla Dolla Bill Ya'll]
     a. link:{basepath}1/round1_ans.html[Round 1 Answers]
 2. link:{basepath}2/round2_q.html[The High Seas]
-3. Love Trapezoid
+    a. link:{basepath}2/round2_ans.html[Round 2 Answers]
+3. link:{basepath}3/round3_q.html[Love Trapezoid]
 4. I'm Turning Japanese (Halftime Picture Round)
 5. Parks & Rec
 6. Mystery Round
