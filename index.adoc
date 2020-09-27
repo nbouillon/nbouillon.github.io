@@ -12,7 +12,8 @@
 2. link:{basepath}2/round2_q.html[The High Seas]
     a. link:{basepath}2/round2_ans.html[Round 2 Answers]
 3. link:{basepath}3/round3_q.html[Love Trapezoid]
-4. I'm Turning Japanese (Halftime Picture Round)
+    a. link:{basepath}3/round3_ans.html[Round 3 Answers]
+4. link:{basepath}4/round4_q.html[I'm Turning Japanese] (Halftime Picture Round)
 5. Parks & Rec
 6. Mystery Round
 7. Play Me a Memory
