@@ -20,7 +20,8 @@
 6. link:{basepath}6/round6_q.html[Mystery Round]
     a. link:{basepath}6/round6_ans.html[Round 6 Answers]
 7. link:{basepath}7/round7_q.html[Play Me a Memory]
-8. Final Round - Munchies
+    a. link:{basepath}7/round7_ans.html[Round 7 Answers]
+8. link:{basepath}8/round8_q.html[Final Round - Munchies]
 
 == Teams & Scores
 
