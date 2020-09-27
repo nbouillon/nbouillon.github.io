@@ -18,7 +18,8 @@
 5. link:{basepath}5/round5_q.html[Parks & Rec]
     a. link:{basepath}5/round5_ans.html[Round 5 Answers]
 6. link:{basepath}6/round6_q.html[Mystery Round]
-7. Play Me a Memory
+    a. link:{basepath}6/round6_ans.html[Round 6 Answers]
+7. link:{basepath}7/round7_q.html[Play Me a Memory]
 8. Final Round - Munchies
 
 == Teams & Scores
@@ -33,11 +34,11 @@
 |Round 2     |8       |8       |8       |7       |10     
 |Round 3     |7       |8       |10      |8       |10   
 |Round 4     |10      |13      |13      |14      |14      
-|Round 5     |4       |4       |7       |2       |10     
+|Round 5     |3       |4       |7       |2       |10     
 |Round 6     |        |        |        |        |12     
 |Round 7     |        |        |        |        |13     
 |Final Round |        |        |        |        |16     
-|*Total*     |37.5    |39.5    |44.5    |36.5    |95      
+|*Total*     |36.5    |39.5    |44.5    |36.5    |95      
 |===
 
 '''
