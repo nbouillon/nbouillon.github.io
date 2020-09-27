@@ -16,7 +16,8 @@
 4. link:{basepath}4/round4_q.html[I'm Turning Japanese] (Halftime Picture Round)
     a. link:{basepath}4/round4_ans.html[Round 4 Answers]
 5. link:{basepath}5/round5_q.html[Parks & Rec]
-6. Mystery Round
+    a. link:{basepath}5/round5_ans.html[Round 5 Answers]
+6. link:{basepath}6/round6_q.html[Mystery Round]
 7. Play Me a Memory
 8. Final Round - Munchies
 
