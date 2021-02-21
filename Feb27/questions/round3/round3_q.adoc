@@ -1,0 +1,64 @@
+= Round 3 - Once Upon a Time
+
+====
+Name the Year That All 3 Events Took Place
+
+*Scoring:*
+
+0.5 point for +/- 10 years
+
+1 points for +/- 3 years
+
+1.5 points for getting it exactly right
+
+
+Possible Points: 12
+
+====
+
+'''
+
+1.	*Name the Year*
+    a.	Gandhi is arrested in Bombay by British Forces
+    b.	Cassius Marcellus Clay Jr. is born
+    c.	The Great Los Angeles Air Raid takes place
+    
+2.	*Name the Year*
+    a.	Edward Snowden is charged with espionage by the US government
+    b.	The EU bails Cyprus out of a banking crisis
+    c.	The Internship starring Owen Wilson and Vince Vaughn is released
+    
+3.	*Name the Year*
+    a.	The Napoleonic Wars enter their 7th year
+    b.	The Illinois Territory is created
+    c.	Charles Darwin and Abraham Lincoln are born (same day!) 
+    
+4.	*Name the Year*
+    a.	The Cleveland Indians host a disastrous 10 cent beer night
+    b.	Stephen King’s first published novel, Carrie, is released
+    c.	ABBA wins the Eurovision song contest
+    
+5.	*Name the Year*
+    a.	Pocahontas travels to London with husband John Rolfe
+    b.	Galileo Galilei meets with Pope Paul V to defend heliocentrism
+    c.	William Shakespeare dies
+    
+6.	*Name the Year*
+    a.	The American Basketball Association is formed
+    b.	Elvis Presley and Priscilla Beaulieu are married in Las Vegas
+    c.	Nicole Kidman is born
+    
+7.	*Name the Year*
+    a.	Val Kilmer makes his film debut in Top Secret!
+    b.	Bruce Springsteen releases the album Born in the U.S.A.
+    c.	The first version of Tetris is released
+    
+8.	*Name the Year*
+    a.	The Sci-Fi Channel launches on cable television
+    b.	Selena Gomez is born
+    c.	Sir Mix-a-Lot releases Baby Got Back
+
+
+'''
+
+link:../../../index.html[Click here to return to the main site]

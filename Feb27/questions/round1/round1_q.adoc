@@ -1,0 +1,38 @@
+= Round 1 - Overlaps
+
+====
+For this round, each answer is one word that is an overlapping combination of two other words.  For example, if the clue was “Military clothing and the chemical makeup of a compound”, the answer would: uniformula (uniform + formula)
+
+*Note:* The overlapping part will be at least 2 letters!
+
+Possible Points: 11
+====
+
+'''
+
+1. Someone that can mix your drink and treat your skin
+
+2. One part in a hundred and the revealing spread halfway through a magazine
+
+3. A sofa used to solve a coding problem
+
+4. A cold weather pest
+
+5. Hot water with espresso and a public display of affection
+
+6. A frugal choice about a piece of your karaoke setup
+
+7. A mathematician's tool that holds your taco ingredients
+
+8. To grab a striped African animal
+
+9. Being unsure about the final outcome
+
+10. Title teenager from a 90s sitcom working at a fancy restaurant
+
+11. A common fruit that examines information
+
+
+'''
+
+link:../../../index.html[Click here to return to the main site]

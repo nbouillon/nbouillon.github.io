@@ -1,0 +1,36 @@
+= Round 2 - Symbology 
+
+====
+Identify the meaning of each symbol you might run across in everyday life.
+Each picture has 4 separate questions (a,b,c,d) for a total of 20 questions worth half a point each.
+
+Possible Points: 10
+====
+
+'''
+
+1. On a piece of clothing:
+  * image:../../resources/symbols/clothing.png[]
+
+2. On a prescription medication:
+  * image:../../resources/symbols/rx.png[]
+
+3. On a sign near some hazardous materials:
+  * image:../../resources/symbols/hazard.png[]
+
+    * (What does each section represent? You can ignore the numbers)
+    a.	(Blue)
+    b.	(Red)
+    c.	(Yellow)
+    d.	(bottom)
+
+4. On your car’s dashboard:
+  * image:../../resources/symbols/auto.png[]
+
+
+5. On the ORD airport printable maps:
+  * image:../../resources/symbols/airport.png[]
+
+'''
+
+link:../../../index.html[Click here to return to the main site]
