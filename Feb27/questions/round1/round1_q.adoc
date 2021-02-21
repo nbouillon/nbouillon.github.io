@@ -1,7 +1,9 @@
 = Round 1 - Overlaps
 
 ====
-For this round, each answer is one word that is an overlapping combination of two other words.  For example, if the clue was “Military clothing and the chemical makeup of a compound”, the answer would: uniformula (uniform + formula)
+For this round, each answer is one word that is an overlapping combination of two other words.
+
+For example, if the clue was “Military clothing and the chemical makeup of a compound”, the answer would be: uniformula (uniform + formula)
 
 *Note:* The overlapping part will be at least 2 letters!
 
