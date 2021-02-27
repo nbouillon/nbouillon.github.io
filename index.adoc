@@ -1,47 +1,24 @@
-= Quarantine Trivia Week 14
-:basepath: Sept26/questions/round
+= Quarantine Trivia Week 24
+:basepath: Feb27/questions/round
 
 == Your Hosts: Becky & Noah!
 
-=== Possible Total Points: 95
+=== Total Possible Points: 94
 
 === Categories:
 
-1. link:{basepath}1/round1_q.html[Dolla Dolla Bill Ya'll]
-    a. link:{basepath}1/round1_ans.html[Round 1 Answers]
-2. link:{basepath}2/round2_q.html[The High Seas]
-    a. link:{basepath}2/round2_ans.html[Round 2 Answers]
-3. link:{basepath}3/round3_q.html[Love Trapezoid]
-    a. link:{basepath}3/round3_ans.html[Round 3 Answers]
-4. link:{basepath}4/round4_q.html[I'm Turning Japanese] (Halftime Picture Round)
-    a. link:{basepath}4/round4_ans.html[Round 4 Answers]
-5. link:{basepath}5/round5_q.html[Parks & Rec]
-    a. link:{basepath}5/round5_ans.html[Round 5 Answers]
-6. link:{basepath}6/round6_q.html[Mystery Round]
-    a. link:{basepath}6/round6_ans.html[Round 6 Answers]
-7. link:{basepath}7/round7_q.html[Play Me a Memory]
-    a. link:{basepath}7/round7_ans.html[Round 7 Answers]
-8. link:{basepath}8/round8_q.html[Final Round - Munchies]
-    a. link:{basepath}8/round8_ans.html[Round 8 Answers]
+1. &#129335;
+2. &#129335;
+3. &#129335;
+4. &#129335;
+5. &#129335;
+6. &#129335;
+7. &#129335;
+8. &#129335;
 
 == Teams & Scores
 
-=== See Who is on Each Team link:./teams/sept26teams.html[Here]
-
-[%autowidth,stripes=even,]
-|===
-|            | Team 1 | Team 2 | Team 3 | Team 4 | Max Score
-
-|Round 1     |8.5     |6.5     |6.5     |5.5     |10     
-|Round 2     |8       |8       |8       |7       |10     
-|Round 3     |7       |8       |10      |8       |10   
-|Round 4     |10      |13      |13      |14      |14      
-|Round 5     |3       |4       |7       |2       |10     
-|Round 6     |8       |9       |7       |10      |12     
-|Round 7     |9       |11.5    |8       |9.5     |13     
-|Final Round |7       |12      |7       |7       |16     
-|*Total*     |60.5    |72      |66.5    |63      |95      
-|===
+Follow along with the current scores here:
+link:https://docs.google.com/spreadsheets/d/1HqkNrg__EzRc0SV_NL6_IB5SNnmPnrk9s5m9s6HdsBc/edit?usp=sharing[Live Scores Sheet]
 
 '''
-
