@@ -8,7 +8,7 @@
 === Categories:
 
 === 1. link:{basepath}1/round1_q.html[Overlaps]
-=== 2. 🚮🔀
+=== 2. link:{basepath}2/round2_q.html[Symbology]
 === 3. 🕰
 === 4. 🎹 🎵 
 === 5. 💬
