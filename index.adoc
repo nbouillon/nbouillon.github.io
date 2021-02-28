@@ -12,7 +12,7 @@
 === 3. link:{basepath}3/round3_q.html[Once Upon a Time]
 === 4. link:{basepath}4/round4_q.html[Tickle the Ivories]
 === 5. link:{basepath}5/round5_q.html[Where Have I Heard That?]
-=== 6. 🗺
+=== 6. link:{basepath}6/round6_q.html[Where in the World?]
 === 7. ✖️🍎🥫
 === 8. 🕵️‍
 
